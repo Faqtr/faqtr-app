@@ -1,11 +1,12 @@
-import speech_recognition
 from multiprocessing import Pool
-from transcribe import transcribe_audio
+
+import speech_recognition
+from ml.nlp.cosine_distance import cosine_distance
 
 from ml.neuralnet import modelStatistics
-from ml.nltk.cosine_distance import cosine_distance
-from ml.nltk.custom_parser import process_text
+from ml.nlp.custom_parser import process_text
 from search import bing_api
+from transcribe import transcribe_audio
 
 
 def process(recognizer, audio):
