@@ -1,8 +1,8 @@
 from multiprocessing import Pool
 
 import speech_recognition
-from ml.nlp.cosine_distance import get_cosine_distance
 
+from ml.nlp.cosine_distance import get_cosine_distance
 from ml.neuralnet import modelStatistics
 from ml.nlp.custom_parser import process_text
 from search import bing_api

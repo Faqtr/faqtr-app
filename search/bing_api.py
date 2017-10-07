@@ -19,7 +19,7 @@ def search(text):
             if len(snip.strip()) > 4:
                 relevant_sentence_list.append(snip.encode('utf-8'))
 
-    print relevant_sentence_list
+    return relevant_sentence_list
 
 
 # def search_cached():
