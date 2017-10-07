@@ -1,7 +1,7 @@
 from multiprocessing import Pool
 
 import speech_recognition
-from ml.nlp.cosine_distance import cosine_distance
+from ml.nlp.cosine_distance import get_cosine_distance
 
 from ml.neuralnet import modelStatistics
 from ml.nlp.custom_parser import process_text
@@ -28,7 +28,7 @@ def process(recognizer, audio):
             # calculating cosine distance of retrieved content with actual query
             for hit in phrase_hits:
                 hit = process_text(hit)
-                distance = cosine_distance(transcribed_text_chunk, hit)
+                distance = get_cosine_distance(transcribed_text_chunk, hit)
                 statement_array.append([hit, distance])
 
             # Sort on basis of cosine distance for max similar first
