@@ -5,14 +5,18 @@ import speech_recognition
 from ml.nlp.cosine_distance import get_cosine_distance
 from ml.neuralnet import modelStatistics
 from ml.nlp.custom_parser import process_text
+from ml.nlp import convert_to_question
 from search import bing_api
 from transcribe import transcribe_audio
 
 
 def process(recognizer, audio):
-
     # Get text chunk from audio
     transcribed_text_chunk = transcribe_audio.run(recognizer, audio)
+
+    # Convert the statement into question form and also get the main number metric for future use
+    transcribed_text_chunk, cardinal_number = convert_to_question.convert_statement(transcribed_text_chunk)
+
     statement_array = []
 
     if len(transcribed_text_chunk) > 0:
@@ -24,17 +28,26 @@ def process(recognizer, audio):
 
             # replace words like '9 out of 10' with actual numerical values
             transcribed_text_chunk = process_text(transcribed_text_chunk)
-            
+
+            """
+            NOT CALCULATING COSINE DISTANCES
+            """
             # calculating cosine distance of retrieved content with actual query
+            # for hit in phrase_hits:
+            #     hit = process_text(hit)
+            #     distance = get_cosine_distance(transcribed_text_chunk, hit)
+            #     print transcribed_text_chunk, hit, distance
+            #     statement_array.append([hit, distance])
+            #
+            # statement_array = sorted(statement_array, key=lambda tup: tup[1], reverse=True)
+
+            # AB KYA KARNA HAI
+
             for hit in phrase_hits:
                 hit = process_text(hit)
-                distance = get_cosine_distance(transcribed_text_chunk, hit)
-                print transcribed_text_chunk, hit, distance
-                statement_array.append([hit, distance])
+                statement_array.append(hit)
 
-            # Sort on basis of cosine distance for max similar first
-            statement_array = sorted(statement_array, key=lambda tup : tup[1], reverse=True)
-            # print phrase_hits
+
     return statement_array
 
 
