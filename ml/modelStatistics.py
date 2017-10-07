@@ -37,10 +37,10 @@ def createModel():
 def predict(model, wordlist, lines):
 	lines = [lines]
 	for line in lines:
-	line = ppf.processLine(line)
-	line = line.split()
-	line = ppf.tokenize(line, wordlist)
-	line = sequence.pad_sequences([line], maxlen=max_review_length)
+		line = ppf.processLine(line)
+		line = line.split()
+		line = ppf.tokenize(line, wordlist)
+		line = sequence.pad_sequences([line], maxlen=max_review_length)
 	if model.predict(line)[0][0] > 0.8:
 		return True
 	else:
