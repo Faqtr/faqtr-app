@@ -2,7 +2,8 @@ import speech_recognition
 from multiprocessing import Pool
 from transcribe import transcribe_audio
 
-from ml import modelStatistics
+from ml.neuralnet import modelStatistics
+from ml.nltk.cosine_distance import cosine_distance
 from search import bing_api
 
 
@@ -10,14 +11,24 @@ def process(recognizer, audio):
 
     # Get text chunk from audio
     transcribed_text_chunk = transcribe_audio.run(recognizer, audio)
+    statement_array = []
 
     if len(transcribed_text_chunk) > 0:
         model, word_list = modelStatistics.createModel()
 
         if modelStatistics.predict(model, word_list, transcribed_text_chunk):
-            print "success"
+            # getting relevant content from BING API
             phrase_hits = bing_api.search(transcribed_text_chunk)
+
+            # calculating cosine distance of retrieved content with actual query
+            for hit in phrase_hits:
+                distance = cosine_distance(transcribed_text_chunk, hit)
+                statement_array.append([hit, distance])
+
+            # Sort on basis of cosine distance for max similar first
+            statement_array = sorted(statement_array, key=lambda tup : tup[1], reverse=True)
             print phrase_hits
+    return statement_array
 
 
 # MAIN
