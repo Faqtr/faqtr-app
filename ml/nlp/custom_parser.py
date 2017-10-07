@@ -1,9 +1,8 @@
 from __future__ import division
 import re
-# from nltk.corpus import stopwords
-# from nltk.stem.snowball import SnowballStemmer
+from gensim.parsing.porter import PorterStemmer
 def process_text(text):
-	# Snowball = SnowballStemmer()
+	stem = PorterStemmer()
 	try:
 		x = re.findall(r'[0-9]+.in.[0-9]+', text)
 		text = text.replace(x[0], str(eval(x[0].replace('in','/'))*100)+'%')
@@ -19,6 +18,4 @@ def process_text(text):
 		text = text.replace(x[0], str(eval(x[0].replace('out of','/'))*100)+'%')
 	except:
 		pass
-	# stop = set(stopwords.words('english'))
-	# text = ' '.join(Snowball.stem(i).encode('ascii', 'ignore') for i in text.lower().split() if i not in stop)
-	return text
+	return ' '.join(stem.stem(i) for i in text.lower().split())
