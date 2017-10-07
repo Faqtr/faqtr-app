@@ -1,7 +1,7 @@
 import requests
 
 BASE_URL = "https://api.cognitive.microsoft.com/bing/v7.0/search"
-headers = {'Ocp-Apim-Subscription-Key': 'c07d4e8bad664e7b8e5d51e3e0cab958'}
+headers = {'Ocp-Apim-Subscription-Key': 'cd18b9463d45418fa44af0837b59cb51'}
 
 
 def search(text):
