@@ -11,7 +11,7 @@ from keras.preprocessing import sequence
 import preProcessFiles as ppf
 
 max_review_length = 130
-excessFilePath = 'ml/' #change to '' in local
+excessFilePath = 'ml/Neural Network/' #change to '' in local
 def createModel():
 	wordlist = pickle.load(open(excessFilePath+'wordlist.pkl', 'r'))
 	len_words = len(wordlist)
