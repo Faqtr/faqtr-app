@@ -29,7 +29,7 @@ def processLine(line):
         line = line.replace(ending, ending[:-1])
     return line
 
-files = [fileStats, fileNoStats]
+files = ['ml/'+fileStats, 'ml/'+fileNoStats]
 globalArray = []
 for tempFile in files:
     obj = open(tempFile, 'r').readlines()

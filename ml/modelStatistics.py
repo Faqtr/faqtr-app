@@ -11,9 +11,9 @@ from keras.preprocessing import sequence
 import preProcessFiles as ppf
 
 max_review_length = 130
-
+excessFilePath = 'ml/' #change to '' in local
 def createModel():
-	wordlist = pickle.load(open('wordlist.pkl', 'r'))
+	wordlist = pickle.load(open(excessFilePath+'wordlist.pkl', 'r'))
 	len_words = len(wordlist)
 	embedding_vecor_length = 30
 	model = Sequential()
@@ -26,17 +26,19 @@ def createModel():
 	model.add(LSTM(150))
 	model.add(Dropout(0.5))
 	model.add(Dense(1, activation='sigmoid'))
-	json_file = open('model.json', 'r')
+	json_file = open(excessFilePath+'model.json', 'r')
 	loaded_model_json = json_file.read()
 	json_file.close()
 	model = model_from_json(loaded_model_json)
-	model.load_weights('model.h5')
+	model.load_weights(excessFilePath+'model.h5')
 	model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 	return model, wordlist
 
 def predict(model, wordlist, lines):
+	print "Predicting..."
 	lines = [lines]
 	for line in lines:
+		line = str(line)
 		line = ppf.processLine(line)
 		line = line.split()
 		line = ppf.tokenize(line, wordlist)

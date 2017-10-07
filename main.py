@@ -7,13 +7,15 @@ from search import bing_api
 
 
 def process(recognizer, audio):
-    global model, word_list
 
     # Get text chunk from audio
     transcribed_text_chunk = transcribe_audio.run(recognizer, audio)
+
     if len(transcribed_text_chunk) > 0:
+        model, word_list = modelStatistics.createModel()
 
         if modelStatistics.predict(model, word_list, transcribed_text_chunk):
+            print "success"
             phrase_hits = bing_api.search(transcribed_text_chunk)
             print phrase_hits
 
@@ -27,7 +29,7 @@ pool = Pool(processes=1)
 recognizer = speech_recognition.Recognizer()
 
 # Build ML Model
-model, word_list = modelStatistics.createModel()
+# model, word_list = modelStatistics.createModel()
 
 # Driver to receive input
 with speech_recognition.Microphone() as source:
