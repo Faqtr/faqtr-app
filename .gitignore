@@ -164,3 +164,10 @@ ENV/
 # mypy
 .mypy_cache/
 
+/ml/Untitled1.ipynb
+/ml/train.pkl
+/ml/testRnn.py
+/ml/training.pkl
+/ml/Untitled.ipynb
+/ml/Statistical.txt
+/ml/Non Statistical.txt
