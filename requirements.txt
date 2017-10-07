@@ -6,3 +6,6 @@ requests==2.18.4
 SpeechRecognition==3.7.1
 urllib3==1.22
 nltk==3.2.5
+keras>=2.0.4
+tensorflow>=1.2.1
+numpy>=1.13.1

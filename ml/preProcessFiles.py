@@ -1,5 +1,4 @@
 import numpy as np
-from tqdm import tqdm
 import pickle
 import string
 import re
