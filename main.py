@@ -2,21 +2,32 @@ import speech_recognition
 from multiprocessing import Pool
 from transcribe import transcribe_audio
 
+from ml import modelStatistics
+from search import bing_api
+
 
 def process(recognizer, audio):
+    global model, word_list
+
     # Get text chunk from audio
     transcribed_text_chunk = transcribe_audio.run(recognizer, audio)
-
     if len(transcribed_text_chunk) > 0:
-        # Call ML function which returns true or false
-        # if true, call search api
-        pass
+
+        if modelStatistics.predict(model, word_list, transcribed_text_chunk):
+            phrase_hits = bing_api.search(transcribed_text_chunk)
+            print phrase_hits
 
 
-# Main
+# MAIN
 
+# Init Multithreading stuff
 pool = Pool(processes=1)
+
+# Init Speech Recog
 recognizer = speech_recognition.Recognizer()
+
+# Build ML Model
+model, word_list = modelStatistics.createModel()
 
 # Driver to receive input
 with speech_recognition.Microphone() as source:
