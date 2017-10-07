@@ -11,7 +11,7 @@ def search(text):
 
     # Fetch various opinions and results from the search
     for res in result_list:
-        print res['snippet']
+        # print res['snippet']
         snippet_parts = res['snippet'].split(". ")
         for snip in snippet_parts:
 

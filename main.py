@@ -29,11 +29,12 @@ def process(recognizer, audio):
             for hit in phrase_hits:
                 hit = process_text(hit)
                 distance = get_cosine_distance(transcribed_text_chunk, hit)
+                print transcribed_text_chunk, hit, distance
                 statement_array.append([hit, distance])
 
             # Sort on basis of cosine distance for max similar first
             statement_array = sorted(statement_array, key=lambda tup : tup[1], reverse=True)
-            print phrase_hits
+            # print phrase_hits
     return statement_array
 
 
