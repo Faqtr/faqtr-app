@@ -4,6 +4,7 @@ from transcribe import transcribe_audio
 
 from ml.neuralnet import modelStatistics
 from ml.nltk.cosine_distance import cosine_distance
+from ml.nltk.custom_parser import process_text
 from search import bing_api
 
 
@@ -20,8 +21,12 @@ def process(recognizer, audio):
             # getting relevant content from BING API
             phrase_hits = bing_api.search(transcribed_text_chunk)
 
+            # replace words like '9 out of 10' with actual numerical values
+            transcribed_text_chunk = process_text(transcribed_text_chunk)
+            
             # calculating cosine distance of retrieved content with actual query
             for hit in phrase_hits:
+                hit = process_text(hit)
                 distance = cosine_distance(transcribed_text_chunk, hit)
                 statement_array.append([hit, distance])
 
