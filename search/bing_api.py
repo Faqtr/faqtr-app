@@ -11,6 +11,7 @@ def search(text):
 
     # Fetch various opinions and results from the search
     for res in result_list:
+        print res['snippet']
         snippet_parts = res['snippet'].split(". ")
         for snip in snippet_parts:
 
@@ -18,7 +19,7 @@ def search(text):
             if len(snip.strip()) > 4:
                 relevant_sentence_list.append(snip.encode('utf-8'))
 
-    return relevant_sentence_list
+    print relevant_sentence_list
 
 
 # def search_cached():

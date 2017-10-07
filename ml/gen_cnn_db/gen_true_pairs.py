@@ -1,7 +1,7 @@
 from search import bing_api
 from ml.nlp import cosine_distance
-import pickle
 from tqdm import tqdm
+import re
 
 main_arr = []
 
@@ -12,16 +12,20 @@ sentences = []
 for line in file:
     sentences.append(line)
 
-for sen in tqdm(sentences):
-    statement_array = []
+with open('csvfile.csv', 'wb') as file:
+    for sen in tqdm(sentences[0:2]):
+        statement_array = []
 
-    results = bing_api.search(sen)
-    for hit in results:
-        distance = cosine_distance.get_cosine_distance(sen, hit)
-        statement_array.append([sen, hit, distance])
+        results = bing_api.search(sen)
 
-    statement_array = sorted(statement_array, key=lambda tup: tup[1], reverse=True)
-    for i in range(0, 5):
-        main_arr.append(statement_array[i])
+        str_to_insert = ""
 
-pickle.dump(main_arr, open('main_arr.pkl', 'w'))
+        for hit in results:
+            hit = re.sub('[^A-Za-z0-9 ]+', '', hit)
+            # distance = cosine_distance.get_cosine_distance(sen, hit)
+            statement_array.append([sen, hit])
+
+        # statement_array = sorted(statement_array, key=lambda tup: tup[1], reverse=True)
+        for i in range(0, 5):
+            str_to_insert = statement_array[i][0] + '\t' + statement_array[i][1] + '\t' + str(1) + '\n'
+            file.write(str_to_insert)

@@ -169,8 +169,7 @@ ENV/
 /ml/testRnn.py
 /ml/training.pkl
 /ml/Untitled.ipynb
-/ml/Statistical.txt
-/ml/Non Statistical.txt
+
 ### macOS template
 # General
 *.DS_Store
