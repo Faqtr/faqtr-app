@@ -1,6 +1,6 @@
 (lp0
 (lp1
-S'Only one in 10 Americans possess a passport.\n'
+S'US adults consume an average of 3,400 mg/day [of sodium], well above the current federal guideline of less than 2,300 mg daily.\n'
 p2
 aS'facts  statistics physical activity  us adults consume an average of 3400 mgday of sodium well above the current federal guideline of less than 2300 m'
 p3
@@ -36,7 +36,7 @@ a(lp16
 I0
 aI1
 aaa(lp17
-S'The recent financial crisis will push up to 100 million people in developing countries into absolute poverty.\n'
+S'Typical American diets exceed the recommended intake levels or limits in four categories: calories from solid fats and added sugars; refined grains; sodium; and saturated fat.\n'
 p18
 aS'journal of the american medical association 3075 483490 typical american diets exceed the recommended intake levels or limits in four categories calor'
 p19
@@ -72,7 +72,7 @@ a(lp32
 I0
 aI1
 aaa(lp33
-S'There are 3 million Zimbabwean refugees in South Africa.\n'
+S'Transportation costs rose 2.8% on a year-over-year basis in August, following a 1.9% increase the previous month.\n'
 p34
 aS'prices were up in six of the eight major cpi components in the 12 months to august with the transportation and shelter indexes contributing the most t'
 p35
@@ -106,7 +106,7 @@ a(lp46
 I0
 aI1
 aaa(lp47
-S"The size of India's middle class is 300 million people.\n"
+S"To carry out all these searches, Google's data centre uses 0.01% of worldwide electricity\n"
 p48
 aS'data reflects assumptions of annual clear sky irradiance annual average sky clearance and available land area  various techniques are used to track th'
 p49
@@ -142,7 +142,7 @@ a(lp62
 I0
 aI1
 aaa(lp63
-S'The 1998-2002 war in the DRC cost 5.4 million lives, more than any conflict since World War II. \n'
+S'Those who are obese have medical costs that are $1,429 more than those of normal weight on average (roughly 42% higher).\n'
 p64
 aS'facts  statistics physical activity  those who are obese have medical costs that are 1429 more than those of normal weight on average roughly 42 highe'
 p65
@@ -178,7 +178,7 @@ a(lp78
 I0
 aI1
 aaa(lp79
-S'Nine out of ten people we asked said they preferred it.\n'
+S'Those searches are carried out by 1.17 billion unique users\n'
 p80
 aS'google search statistics retrieving data google searches today view how many in 1 second google search volume current and historical  users around the'
 p81
@@ -214,7 +214,7 @@ a(lp94
 I0
 aI1
 aaa(lp95
-S'Statisticians have proven a clear correlation between Pona cream and smoother skin.\n'
+S'There were over 2,100 counselling sessions with young people who talked in Childline about online child sexual exploitation (CSE) in 2016/17 \n'
 p96
 aS'there were over 2100 counselling sessions with young people who talked in childline about online child sexual exploitation cse in 201617  source bentl'
 p97
@@ -250,7 +250,7 @@ a(lp110
 I0
 aI1
 aaa(lp111
-S'One out of every seven minutes spent online is on Facebook\n'
+S'There were over 12,000 counselling sessions with young people who talked to Childline about online issues last year\n'
 p112
 aS'there were over 12000 counselling sessions with young people who talked to childline about online issues last year source bentley h et al 2017 how saf'
 p113
@@ -286,7 +286,7 @@ a(lp126
 I0
 aI1
 aaa(lp127
-S'340 million tweets are sent each and every day\n'
+S'There were 1.7 million new cases of diabetes in 2012.\n'
 p128
 aS'according to the american diabetes association ada there were 17 million new cases of diabetes in 2012 about 86 million americans had prediabetes that'
 p129
@@ -322,7 +322,7 @@ a(lp142
 I0
 aI1
 aaa(lp143
-S'Pinterest is the social network that skews most heavily towards female users, whilst Google+ is predominately used by men\n'
+S'There is a total of 1.3 billion accounts, but only 320 million are active\n'
 p144
 aS'social media marketing statistics that help you convince others that social media is important check out the stats behind facebook twitter and others '
 p145
@@ -358,7 +358,7 @@ a(lp158
 I0
 aI1
 aaa(lp159
-S'300 million pictures are uploaded to Facebook every day via Instagram\n'
+S"There are more collect calls on father's Day than any other day of the year.\n"
 p160
 aS'rumor more collect phone calls are made on fathers day than on any other day of the year'
 p161
@@ -394,7 +394,7 @@ a(lp174
 I0
 aI1
 aaa(lp175
-S'61 percent of LinkedIn members use it as their primary professional networking site\n'
+S'There are 3.5 billion Instagram Likes per day\n'
 p176
 aS'welcoming 2017 with these amazing social media statistics every marketer should know about  there are 42 billion likes daily on instagramtweet  the av'
 p177
@@ -430,7 +430,7 @@ a(lp190
 I0
 aI1
 aaa(lp191
-S'Overall during the quarter, revenue rose 5.2% to $1.31 billion, helped by a change in how the company reports revenue.\n'
+S'There are 3.25 billion hours of video watched each month\n'
 p192
 aS'youtube statistics  2017 facts and numbers  the total number of hours of video watched on youtube each month  325 billion 10113 youtube videos generat'
 p193
@@ -466,7 +466,7 @@ a(lp206
 I0
 aI1
 aaa(lp207
-S'Government debt has surged to an all-time high of $19 trillion, almost 200 times where it was at the end of World War 2\n'
+S'There are 2.3 billion active social media users\n'
 p208
 aS'marketing 96 amazing social media statistics and facts marketing  by kit smith on march 7 th 2016  it is a fact of the internet that every click every'
 p209
@@ -502,7 +502,7 @@ a(lp222
 I0
 aI1
 aaa(lp223
-S'Economic growth is low and labor-force participation has plunged\n'
+S'The world record for passing gas was set on Japanese television, 3,000 times in a row.\n'
 p224
 aS'astronaut shannon lucis spent 188 days in a row in space thats the american record the world record for passing gas was set on japanese television 300'
 p225
@@ -538,7 +538,7 @@ a(lp238
 I0
 aI1
 aaa(lp239
-S'Millennials live paycheck to paycheck\n'
+S'The word electricity derives from the Greek word \xe2\x80\x9celektron\xe2\x80\x9d meaning amber.\n'
 p240
 aS'etymology of electricity historical drift preenglish origins the new latin adjective electricus originally meaning of amber was first used to refer to'
 p241
@@ -574,7 +574,7 @@ a(lp254
 I0
 aI1
 aaa(lp255
-S'Car airbags kill 1 person for every 22 lives that they save.\n'
+S'The user submitted video with the most views is "Charlie bit my finger", with 834,956,899 views\n'
 p256
 aS'on youtube the user who submitted video with the most views is charlie bit my finger with 834956899 views not to mention '
 p257
@@ -609,7 +609,7 @@ a(lp269
 I0
 aI1
 aaa(lp270
-S'Only one in three children are physically active every day.\n'
+S"The tallest man in the world was 8'11\xe2\x80\x9d Robert Wadlow. He was just 22 when he died in 1949 from an infection caused by leg braces he needed to keep him on his feet.\n"
 p271
 aS'the tallest man in the world was 811 robert wadlow he was just 22 when he died in 1949 from an infection caused by leg braces he needed to keep him on'
 p272
@@ -644,7 +644,7 @@ a(lp284
 I0
 aI1
 aaa(lp285
-S'Less than 5% of adults participate in 30 minutes of physical activity each day; only one in three adults receive the recommended amount of physical activity each week.\n'
+S'The most popular page is Facebook for Every Phone, with 509,772,152 likes\n'
 p286
 aS'why is the facebook for every phone page the most popular facebook page by a factor of more than 3 over the official facebook page 295 vs 95 million l'
 p287
@@ -680,7 +680,7 @@ a(lp300
 I0
 aI1
 aaa(lp301
-S'Only 35 - 44% of adults 75 years or older are physically active, and 28-34% of adults ages 65-74 are physically active.\n'
+S'The internet has 3.17 billion users\n'
 p302
 ag209
 a(lp303
@@ -715,7 +715,7 @@ a(lp315
 I0
 aI1
 aaa(lp316
-S'More than 80% of adults do not meet the guidelines for both aerobic and muscle-strengthening activities, and more than 80% of adolescents do not do enough aerobic physical activity to meet the guidelines for youth.\n'
+S'The best time to Pin is Saturday from 8pm-11pm\n'
 p317
 aS'best times to post on social media you are here home knowledge base best times to post on  according to fannit best times to pin are saturday 2am4am a'
 p318
@@ -751,7 +751,7 @@ a(lp331
 I0
 aI1
 aaa(lp332
-S'In 2013, research found adults in the following states to be most likely to report exercising 3 or more days a week for at least 30 minutes: Vermont (65.3%), Hawaii (62.2%), Montana (60.1%), Alaska (60.1%). The least likely were Delaware (46.5%), West Virginia (47.1%) and Alabama (47.5%). The national average for regular exercise is 51.6%.\n'
+S'The average age kids begin to use a microwave is seven.\n'
 p333
 aS'coffee drinking statistics  coffee drinking statistics  total percentage of americans over the age of 18 that drink coffee everyday 54 average size of'
 p334
@@ -787,7 +787,7 @@ a(lp347
 I0
 aI1
 aaa(lp348
-S'Nationwide, 25.6% of persons with a disability reported being physically inactive during a usual week, compared to 12.8% of those without a disability.\n'
+S'The average American drinks 3.4 cups of coffee a day.\n'
 p349
 aS'fact 1 the average age children begin to use a microwave is seven fact 2 a 3year old boys voice is louder than 200 adults in a crowded restaurant'
 p350
@@ -823,7 +823,7 @@ a(lp363
 I0
 aI1
 aaa(lp364
-S'Only about one in five homes have parks within a half-mile, and about the same number have a fitness or recreation center within that distance.5\n'
+S'The annual growth of WWW traffic is 314,000%.\n'
 p365
 aS'german soccer player mesut ozil donated his 300 000 world cup victory bonus to pay surgeries for 23 children in brazil because of heavy traffic conges'
 p366
@@ -859,7 +859,7 @@ a(lp379
 I0
 aI1
 aaa(lp380
-S'28.0% of Americans, or 80.2 million people, aged six and older are physically inactive.\n'
+S'The 1998-2002 war in the DRC cost 5.4 million lives, more than any conflict since World War II. \n'
 p381
 aS' principally through disease and starvation making the second congo war the deadliest conflict worldwide since world war ii  the human security report'
 p382
@@ -895,7 +895,7 @@ a(lp395
 I0
 aI1
 aaa(lp396
-S'Nearly one-third of high school students play video or computer games for 3 or more hours on an average school day.\n'
+S"That's an average of 40,000 search queries every second\n"
 p397
 aS'google now processes over 40000 search queries every second on average visualize them here which translates to over 35 billion searches per day and 12'
 p398
@@ -931,7 +931,7 @@ a(lp411
 I0
 aI1
 aaa(lp412
-S'Typical American diets exceed the recommended intake levels or limits in four categories: calories from solid fats and added sugars; refined grains; sodium; and saturated fat.\n'
+S'Statisticians have proven a clear correlation between Pona cream and smoother skin.\n'
 p413
 aS'disciplines  advertising  claims  statistical claim description  example  discussion  see also  description  statisticians have proven a clear correla'
 p414
@@ -967,7 +967,7 @@ a(lp427
 I0
 aI1
 aaa(lp428
-S'Americans eat less than the recommended amounts of vegetables, fruits, whole-grains, dairy products, and oils.\n'
+S'Social networks earned an estimated $8.3 billion from advertising in 2015\n'
 p429
 aS'32 interesting facts about social media 2017 things to know about social sites 1 stanford grads kevin systrom and mike krieger founded instagram in 20'
 p430
@@ -1003,7 +1003,7 @@ a(lp443
 I0
 aI1
 aaa(lp444
-S'About 90% of Americans eat more sodium than is recommended for a healthy diet.\n'
+S'Since the 1970s, the number of fast food restaurants has more than doubled.\n'
 p445
 aS'us since the mid 1970s at the same time the number of fast food restaurants more than doubled over the same time period while the number of other rest'
 p446
@@ -1075,7 +1075,7 @@ a(lp475
 I0
 aI1
 aaa(lp476
-S'Food available for consumption increased in all major food categories from 1970 to 2008. Average daily calories per person in the marketplace increased approximately 600 calories.\n'
+S'Pizza is the most popular Instagrammed food, behind sushi and steak\n'
 p477
 aS'get ready for some serious food envy the 20 most instagrammed meals from around the world  including avocado sushi and a lot of pizza pizza has been r'
 p478
@@ -1111,7 +1111,7 @@ a(lp491
 I0
 aI1
 aaa(lp492
-S'Since the 1970s, the number of fast food restaurants has more than doubled.\n'
+S'Pinterest is the social network that skews most heavily towards female users, whilst Google+ is predominately used by men\n'
 p493
 aS'for example did you know that one out of every seven minutes spent online is on facebook 340 million tweets are sent each and every day pinterest is t'
 p494
@@ -1147,7 +1147,7 @@ a(lp507
 I0
 aI1
 aaa(lp508
-S'More than 23 million Americans, including 6.5 million children, live in food deserts \xe2\x80\x93 areas that are more than a mile away from a supermarket.\n'
+S'People aged 24-35 worry less than adults of other age groups.\n'
 p509
 aS'young adults in 2016 reported spending much less on average than did young adults in 2008 while spending among older age groups was similar to what it'
 p510
@@ -1183,7 +1183,7 @@ a(lp523
 I0
 aI1
 aaa(lp524
-S'In 2008, an estimated 49.1 million people, including 16.7 million children, experienced food insecurity (limited availability to safe and nutritionally adequate foods) multiple times throughout the year.\n'
+S'Overall during the quarter, revenue rose 5.2% to $1.31 billion, helped by a change in how the company reports revenue.\n'
 p525
 aS'while covering a quarterly earnings report this summer the wall street journal reported overall during the quarter revenue rose 52 to 131 billion help'
 p526
@@ -1219,7 +1219,7 @@ a(lp539
 I0
 aI1
 aaa(lp540
-S'In 2013, residents of the following states were most likely to report eating at least five servings of vegetables four or more days per week: Vermont (68.7%), Montana (63.0%) and Washington (61.8%). The least likely were Oklahoma (52.3%), Louisiana (53.3%) and Missouri (53.8%). The national average for regular produce consumption is 57.7%.\n'
+S'Only one in three children are physically active every day.\n'
 p541
 aS'physical activity only one in three children are physically active every day 1 less than 5 of adults participate in 30 minutes of physical activity ea'
 p542
@@ -1255,7 +1255,7 @@ a(lp555
 I0
 aI1
 aaa(lp556
-S'Empty calories from added sugars and solid fats contribute to 40% of total daily calories for 2\xe2\x80\x9318 year olds and half of these empty calories come from six sources: soda, fruit drinks, dairy desserts, grain desserts, pizza, and whole milk.\n'
+S'Only one in 10 Americans possess a passport.\n'
 p557
 aS'how many americans have a passport the number of americans who have a passport according to  three or four things to prove identity and right to be th'
 p558
@@ -1291,7 +1291,7 @@ a(lp571
 I0
 aI1
 aaa(lp572
-S'US adults consume an average of 3,400 mg/day [of sodium], well above the current federal guideline of less than 2,300 mg daily.\n'
+S'Only about one in five homes have parks within a half-mile, and about the same number have a fitness or recreation center within that distance.5\n'
 p573
 aS'hhs  fitness home  resource center  facts  statistics text resize a a a print  share  only about one in five homes have parks within a halfmile and ab'
 p574
@@ -1327,7 +1327,7 @@ a(lp587
 I0
 aI1
 aaa(lp588
-S'Food safety awareness goes hand-in-hand with nutrition education. In the United States, food-borne agents affect 1 out of 6 individuals and cause approximately 48 million illnesses, 128,000 hospitalizations, and 3,000 deaths each year.\n'
+S'One out of every seven minutes spent online is on Facebook\n'
 p589
 ag494
 a(lp590
@@ -1362,7 +1362,7 @@ a(lp602
 I0
 aI1
 aaa(lp603
-S'US per capita consumption of total fat increased from approximately 57 pounds in 1980 to 78 pounds in 2009 with the highest consumption being 85 pounds in 2005.\n'
+S'One in twelve Americans alphabetize their spice rack.\n'
 p604
 aS' one in twelve americans alphabetize their spice rack  95 of the creatures on earth are smaller than a chicken egg   one in seven americans cant locat'
 p605
@@ -1398,7 +1398,7 @@ a(lp618
 I0
 aI1
 aaa(lp619
-S'The US percentage of food-insecure households, those with limited or uncertain ability to acquire acceptable foods in socially acceptable ways, rose from 11% to 15% between 2005 and 2009.\n'
+S'One in seven young Australians experience a mental health condition.\n'
 p620
 aS'one in seven young australians experience a mental health condition breakdown  people experiencing mental health conditions generally report more expe'
 p621
@@ -1434,7 +1434,7 @@ a(lp634
 I0
 aI1
 aaa(lp635
-S'12.5 million (16.9%) children and adolescents are obese.\n'
+S"One in seven Americans can't locate the U.S. on a map.\n"
 p636
 aS'poll 73 percent of americans unable to locate america on map of america posted on may 23 2014 by cliff frantz  you cant attack a country you cant find'
 p637
@@ -1470,7 +1470,7 @@ a(lp650
 I0
 aI1
 aaa(lp651
-S'Recent reports project that by 2030, half of all adults (115 million adults) in the United States will be obese.\n'
+S'One in fourteen young Australians (6.9%) aged 4-17 experienced an anxiety disorder in 2015. This is equivalent to approximately 278,000 young people.\n'
 p652
 aS'one in fourteen young australians 69 aged 417 experienced an anxiety disorder in 2015 this is equivalent to approximately 278000 young people breakdow'
 p653
@@ -1506,7 +1506,7 @@ a(lp666
 I0
 aI1
 aaa(lp667
-S'For children with disabilities, obesity rates are approximately 38% higher than for children without disabilities.\n'
+S'One in five 8 to 11 year olds and seven in ten 12 to 15 year olds has a social media profile\n'
 p668
 aS'online abuse facts and statistics  more on this topic  online abuse signs indicators and effects who is affected keeping children safe legislation  on'
 p669
@@ -1542,7 +1542,7 @@ a(lp682
 I0
 aI1
 aaa(lp683
-S'Obesity rates for adults with disabilities are approximately 57% higher than for adults without disabilities.\n'
+S'On average, there are 1,000,000,000 mobile video views per day\n'
 p684
 aS'youtube statistics  2017 facts and numbers  youtube gets over 30 million visitors per day in an average month 8 out of 10 1849 yearolds watch youtube '
 p685
@@ -1578,7 +1578,7 @@ a(lp698
 I0
 aI1
 aaa(lp699
-S'Nearly 45% of children living in poverty are overweight or obese compared with 22% of children living in households with incomes four times the poverty level.\n'
+S'Nine out of ten people we asked said they preferred it.\n'
 p700
 aS'the past few weeks saw uttar pradeshs saharanapur singed by disturbing caste clashes becoming the order of the day in response delhis jantar mantar wi'
 p701
@@ -1614,7 +1614,7 @@ a(lp714
 I0
 aI1
 aaa(lp715
-S'Almost 40% of Black and Latino youth ages 2 to 19 are overweight or obese compared with only 29% of White youth.\n'
+S'New cases of leukemia, lymphoma and myeloma are expected to account for 10.2 percent of the estimated 1,688,780 new cancer cases diagnosed in the US in 2017.\n'
 p716
 aS'new york city has a population of approximately 82 million people the new york metropolitan area which spans lower new york northern new jersey and  i'
 p717
@@ -1650,7 +1650,7 @@ a(lp730
 I0
 aI1
 aaa(lp731
-S'Obesity among children in the United States has remained flat - at around 17% - in 2003-2004 and 2011-2012.\n'
+S'New York City is far from the largest city in the world, actually in 16th place at just under 8.5 million people. \n'
 p732
 aS'an estimated combined total of 172910 people in the us are expected to be diagnosed with leukemia lymphoma or myeloma in 2017 new cases of leukemia ly'
 p733
@@ -1684,7 +1684,7 @@ a(lp744
 I0
 aI1
 aaa(lp745
-S'Between 2003 and 2012, obesity among children between 2 and 5 years of age has declined from 14% to 8% - a 43% decrease in just under a decade.\n'
+S'Nationwide, 25.6% of persons with a disability reported being physically inactive during a usual week, compared to 12.8% of those without a disability.\n'
 p746
 aS'nationwide 256 of persons with a disability reported being physically inactive during a usual week compared to 128 of those without a disability 3 onl'
 p747
@@ -1720,7 +1720,7 @@ a(lp760
 I0
 aI1
 aaa(lp761
-S'Obesity rates in children 6 to 11 years old have decreased from 18.8% in 2003-2004 to 17.7% in 2011-2012; obesity rates for children 12 to 19 years old have increased from 17.4% to 20.5% in the same time period.\n'
+S'Most babies are born in August and September.\n'
 p762
 aS'the united states centers for disease control and prevention has kept statistics that say that most babies are born during the summer and there is a b'
 p763
@@ -1756,7 +1756,7 @@ a(lp776
 I0
 aI1
 aaa(lp777
-S'Those who are obese have medical costs that are $1,429 more than those of normal weight on average (roughly 42% higher).\n'
+S'More than half of YouTube views come from mobile devices\n'
 p778
 aS'youtube overall and even youtube on mobile alone  more than half of youtube views come from mobile devices youtube has launched local versions in more'
 p779
@@ -1792,7 +1792,7 @@ a(lp792
 I0
 aI1
 aaa(lp793
-S'The internet has 3.17 billion users\n'
+S"More than half of Google's searches come from mobile devices\n"
 p794
 aS'worldwide more than half of googles searches happen on mobile google also says it has indexed 100 billion links within apps'
 p795
@@ -1827,7 +1827,7 @@ a(lp807
 I0
 aI1
 aaa(lp808
-S'There are 2.3 billion active social media users\n'
+S'More babies are conceived in December than any other month.\n'
 p809
 aS'december is the month when the highest number of babies are conceived and the month in which the highest amount of alcohol is consumed  the study conc'
 p810
@@ -1863,7 +1863,7 @@ a(lp823
 I0
 aI1
 aaa(lp824
-S'91% of retail brands use 2 or more social media channels\n'
+S'Millennials live paycheck to paycheck\n'
 p825
 aS'most millennials say they are skeptical they will ever be millionaires according to a new study worse of all working millennials 54 of women said they'
 p826
@@ -1899,7 +1899,7 @@ a(lp839
 I0
 aI1
 aaa(lp840
-S'Internet users have an average of 5.54 social media accounts\n'
+S'It takes an average person seven minutes to fall asleep on an average night.'
 p841
 aS'ive always wondered this it supposedly takes 7 minutes for us to fall asleep yet i feel like it takes me a good half hour or so to fall asleep'
 p842
@@ -1935,7 +1935,7 @@ a(lp855
 I0
 aI1
 aaa(lp856
-S'Social media users have risen by 176 million in the last year\n'
+S'Internet users have an average of 5.54 social media accounts\n'
 p857
 aS'for our final post this week we highlight more data from our brand new gwi social report download a free summary to look at account membership and act'
 p858
@@ -1970,7 +1970,7 @@ a(lp870
 I0
 aI1
 aaa(lp871
-S"1 million new active mobile social users are added every day. That's 12 each second.\n"
+S"there's a nearly 50 percent chance that your lost remote control is stuck between your sofa cushions\n"
 p872
 aS'mickey mantles left handed batting average 282 hitting left handed mickey mantle had a career batting average of 282 with 343 home runs  56 what of yo'
 p873
@@ -2006,7 +2006,7 @@ a(lp886
 I0
 aI1
 aaa(lp887
-S'Facebook Messenger and Whatsapp handle 60 billion messages a day. \n'
+S'78 percent of people who complain to a brand via Twitter expect a response within an hour. \n'
 p888
 aS'youtube statistics  2017 facts and numbers  you can navigate youtube in a total of 76 different languages covering 95 of the internet population 9 of '
 p889
@@ -2042,7 +2042,7 @@ a(lp902
 I0
 aI1
 aaa(lp903
-S'Social networks earned an estimated $8.3 billion from advertising in 2015\n'
+S'4 percent of lost remotes are found in the fridge or freezer\n'
 p904
 aS'in the 24 hours following the terror attacks that claimed the lives of 129 people in paris more than 70 million people took to instagram to share thei'
 p905
@@ -2078,7 +2078,7 @@ a(lp918
 I0
 aI1
 aaa(lp919
-S'38% of organizations plan to spend more than 20% of their total advertising budgets on social media channels in 2015, up from 13% a year ago. \n'
+S'61 percent of LinkedIn members use it as their primary professional networking site\n'
 p920
 aS'us per capita consumption of total fat increased from approximately 57 pounds in 1980 to 78 pounds in 2009 with the highest consumption being 85 pound'
 p921
@@ -2111,7 +2111,7 @@ a(lp931
 I0
 aI1
 aaa(lp932
-S'Only 20 Fortune 500 companies actually engage with their customers on Facebook, while 83% have a presence on Twitter. \n'
+S'90 percent of Instagram users are younger than 35\n'
 p933
 aS'adults in the us will spend an average of 5 hours 31 minutes watching video each day this year according to new figures from emarketer and digital vid'
 p934
@@ -2147,7 +2147,7 @@ a(lp947
 I0
 aI1
 aaa(lp948
-S'People aged 55-64 are more than twice as likely to engage with branded content than those 28 or younger. \n'
+S'13 people are killed each year by vending machines falling on them.\n'
 p949
 aS'opinions expressed by forbes contributors are their own follow victor lipman on twitter follow victor lipman on  top 10 countries number of twitter us'
 p950
@@ -2183,7 +2183,7 @@ a(lp963
 I0
 aI1
 aaa(lp964
-S"96% of the people that discuss brands online do not follow those brands' owned profiles. \n"
+S'340 million tweets are sent each and every day\n'
 p965
 aS'top 6 reasons for being late for work 1 traffic 2 oversleeping 3 procrastination 4 chores 5 car trouble 6 having sex'
 p966
@@ -2219,7 +2219,7 @@ a(lp979
 I0
 aI1
 aaa(lp980
-S'78 percent of people who complain to a brand via Twitter expect a response within an hour. \n'
+S'300 million pictures are uploaded to Facebook every day via Instagram\n'
 p981
 aS'location of mcmurdo station in antarctica  in 1974 mary alice mcwhinnie and sister mary odile cahoon became the first women to winterover at mcmurdo s'
 p982
@@ -2255,7 +2255,7 @@ a(lp995
 I0
 aI1
 aaa(lp996
-S'On WordPress alone, 56 million blog posts are published every month\n'
+S'500 million people visit Twitter each month without logging in\n'
 p997
 aS'peanuts were grown as far north as mexico when the spanish began their exploration of the new world  who invented peanut butter there is evidence that'
 p998
@@ -2291,7 +2291,7 @@ a(lp1011
 I0
 aI1
 aaa(lp1012
-S'A 2011 study by AOL/Nielsen showed that 27 million pieces of content were shared every day, and today 3.2 billion images are shared each day. \n'
+S'100 million of those access the site on a monthly basis\n'
 p1013
 aS'how many coins equal one dollar a  these are the only two ways to make change for 1 using five different coins according to morgans list there are two'
 p1014
@@ -2327,7 +2327,7 @@ a(lp1027
 I0
 aI1
 aaa(lp1028
-S'The top 3 content marketing tactics are blogging (65%); social media (64%); and case studies (64%)\n'
+S"1 million new active mobile social users are added every day. That's 12 each second.\n"
 p1029
 aS'how many zimbabwean nationals live in south africa estimates range from one to three million but as africa check discovered the numbers cannot be subs'
 p1030
@@ -2363,7 +2363,7 @@ a(lp1043
 I0
 aI1
 aaa(lp1044
-S'Facebook now sees 8 billion average daily video views from 500 million users\n'
+S'176 million Pinterest accounts have been registered\n'
 p1045
 aS'every second on average around 6000 tweets are tweeted on twitter visualize them here which corresponds to over 350000 tweets sent per minute 500 mill'
 p1046
@@ -2398,7 +2398,7 @@ a(lp1058
 I0
 aI1
 aaa(lp1059
-S'Snapchat users watch 6 billion videos every day\n'
+S'1 in 6 employees say they got so mad at a coworker last year that "they felt like hitting them but didn\'t."\n'
 p1060
 aS'how many users does instagram have instagram has 700 million monthly active users  and theres a special property with instagram which is that the incr'
 p1061
@@ -2434,7 +2434,7 @@ a(lp1074
 I0
 aI1
 aaa(lp1075
-S'US adults spend an average of 1 hour, 16 minutes each day watching video on digital devices\n'
+S'1 in 4 children have experienced something upsetting on a social networking site.\n'
 p1076
 aS'facebook is announcing some new programs today for small businesses particularly the ones that advertise at the same time the companys also arguing th'
 p1077
@@ -2470,7 +2470,7 @@ a(lp1090
 I0
 aI1
 aaa(lp1091
-S'78% of people watch online videos every week, 55% watch every day\n'
+S'1 in 3 internet users are children\n'
 p1092
 aS' though the seemingly simple question how much lobbying is there in washington is surprisingly hard to answer after congress passed the 1995 lobbying '
 p1093
@@ -2506,7 +2506,7 @@ a(lp1106
 I0
 aI1
 aaa(lp1107
-S'Google processes 100 billion searches a month\n'
+S'1 in 3 children have been a victim of cyberbullying.\n'
 p1108
 aS'facebook has more than 83m fake profiles  there were 8309m fake users in total which facebook classifies into three groups the largest is made up of a'
 p1109
@@ -2542,7 +2542,7 @@ a(lp1122
 I0
 aI1
 aaa(lp1123
-S"That's an average of 40,000 search queries every second\n"
+S'1 in 10 American adults has diabetes.\n'
 p1124
 aS'last year a study by logitech the computer accessory and remote controls manufacturer revealed that theres a nearly 50 percent chance that your lost r'
 p1125
@@ -2578,7 +2578,7 @@ a(lp1138
 I0
 aI1
 aaa(lp1139
-S'89.3% of all internet searches are carried out by Google\n'
+S'300 hours of video are uploaded to Youtube every minute\n'
 p1140
 aS'many buddhists believe that world peace can only be achieved if we first establish peace within our minds  avoidance of violence is a central concept '
 p1141
@@ -2614,7 +2614,7 @@ a(lp1154
 I0
 aI1
 aaa(lp1155
-S'Those searches are carried out by 1.17 billion unique users\n'
+S'Your left hand does an average of 56% of your typing.\n'
 p1156
 aS'the us percentage of foodinsecure households those with limited or uncertain ability to acquire acceptable foods in socially acceptable ways rose from'
 p1157
@@ -2649,7 +2649,7 @@ a(lp1169
 I0
 aI1
 aaa(lp1170
-S"Every day, 16 to 20% of that day's queries have never been asked before\n"
+S'You can navigate YouTube in a total of 76 different languages (covering 95% of the Internet population)\n'
 p1171
 aS'23 surprising social media statistics you should know in 2016 july 4 2016 susanna gebauer  the top three content marketing tactics are blogging 65 soc'
 p1172
@@ -2685,7 +2685,7 @@ a(lp1185
 I0
 aI1
 aaa(lp1186
-S'Google has answered 450 billion unique queries since 2003\n'
+S'When Instagram introduced videos, more than 5 million were shared in 24 hours\n'
 p1187
 aS'read more about indian middle class is 24 million not 264 million credit suisse on business  china has the highest middleclass population among brics '
 p1188
@@ -2721,7 +2721,7 @@ a(lp1201
 I0
 aI1
 aaa(lp1202
-S"More than half of Google's searches come from mobile devices\n"
+S'US per capita consumption of total fat increased from approximately 57 pounds in 1980 to 78 pounds in 2009 with the highest consumption being 85 pounds in 2005.\n'
 p1203
 aS' the g20 meeting in washington in november 2008 the world bank estimated that a fall in growth of 1 would force 20 million people into absolute povert'
 p1204
@@ -2757,7 +2757,7 @@ a(lp1217
 I0
 aI1
 aaa(lp1218
-S'By 2014, Google had indexed 30,000,000,000,000 pages of the internet\n'
+S'US adults spend an average of 1 hour, 16 minutes each day watching video on digital devices\n'
 p1219
 aS'fast facts  data and statistics about diabetes get the latest fast facts  the prevalence of diagnosed diabetes in the us increased by 382 from 1988 to'
 p1220
@@ -2793,7 +2793,7 @@ a(lp1233
 I0
 aI1
 aaa(lp1234
-S"To carry out all these searches, Google's data centre uses 0.01% of worldwide electricity\n"
+S"Twitter's top 5 markets (countries) account for 50% of all Tweets\n"
 p1235
 aS'the pentagon uses on average about 666 rolls of toilet paper every day  my usual amount 5 minutes or so of internet research was unfortunately not eno'
 p1236
@@ -2829,7 +2829,7 @@ a(lp1249
 I0
 aI1
 aaa(lp1250
-S'Facebook adds 500,000 new users every day; 6 new profiles every second\n'
+S'Top Six reasons for being late for work: 1) traffic. 2) oversleeping. 3) procrastination. 4) Chores. 5) Car Trouble. 6) Having Sex.\n'
 p1251
 aS'suicide rates for young australians highest in 10 years researchers call for new prevention strategies by jessica longbottom updated november 30  suic'
 p1252
@@ -2865,7 +2865,7 @@ a(lp1265
 I0
 aI1
 aaa(lp1266
-S'72% of all online US adults visit Facebook at least once a month\n'
+S'There is now an ATM at McMurdo Station in Antarctica, which has a winter population of 200.\n'
 p1267
 aS'majority of the twitter users have less than 50 followers and only a minuscule percentage have followers more than 100000 source  httptempbeevolvecom'
 p1268
@@ -2901,7 +2901,7 @@ a(lp1281
 I0
 aI1
 aaa(lp1282
-S'The average (mean) number of friends is 338, and the median (midpoint) number of friends is 200\n'
+S'There is a 33% chance that a peanut grown in the U.S. will end up as peanut butter.\n'
 p1283
 aS'what makes us want to roll over what is it when we are lying in bed that makes us all of a sudden uncomfortable on one side and needing to change to t'
 p1284
@@ -2937,7 +2937,7 @@ a(lp1297
 I0
 aI1
 aaa(lp1298
-S'Half of internet users who do not use Facebook themselves live with someone who does\n'
+S'There are 293 ways to make change for a dollar.\n'
 p1299
 aS'how many people move each year  and  over the past quarter century ive heard dozens of different statistics about the percentage of people that move e'
 p1300
@@ -2973,7 +2973,7 @@ a(lp1313
 I0
 aI1
 aaa(lp1314
-S"Of those, 24% say that they look at posts or photos on that person's account\n"
+S'There are 40 million active small business Pages\n'
 p1315
 aS' using apps than they did just two years ago in q4 2013 they spent 30 hours 15 minutes using apps a full halfday more than 18 hours 18 minutes in q4 2'
 p1316
@@ -3009,7 +3009,7 @@ a(lp1329
 I0
 aI1
 aaa(lp1330
-S'There are an estimated 81 million fake Facebook profiles\n'
+S'There are 3 million Zimbabwean refugees in South Africa.\n'
 p1331
 aS'what is linkedins average number of connections per user update cancel answer wiki 7 answers jos sez lpez started linkedeepcom  in 2017 things are sta'
 p1332
@@ -3045,7 +3045,7 @@ a(lp1345
 I0
 aI1
 aaa(lp1346
-S'The most popular page is Facebook for Every Phone, with 509,772,152 likes\n'
+S"There are 500 million Tweets sent each day. That's 6,000 Tweets every second\n"
 p1347
 aS'american crayon companies the  special school and drawing crayons in 7 and 14 colors the american electric drawing crayons in 7 and 12 colors the amer'
 p1348
@@ -3081,7 +3081,7 @@ a(lp1361
 I0
 aI1
 aaa(lp1362
-S'There are 40 million active small business Pages\n'
+S'There are 400 million Monthly Active Users on Instagram\n'
 p1363
 aS'a average person laugh at least i dont knowaccording to a 1978 article in psychology today the average american laughs about 15 times a day'
 p1364
@@ -3117,7 +3117,7 @@ a(lp1377
 I0
 aI1
 aaa(lp1378
-S'But only 2 million of those businesses pay for advertising\n'
+S'There are 74 lobbyists for every one senator in Washington D.C.\n'
 p1379
 aS'on average kids can expect five or six colds a year before they start school some kids get as many as eight to 10 colds a year it isnt until they beco'
 p1380
@@ -3153,7 +3153,7 @@ a(lp1393
 I0
 aI1
 aaa(lp1394
-S'Facebook accounts for 62% of social logins made by consumers to sign into the apps and websites of publishers and brands\n'
+S'There are an estimated 81 million fake Facebook profiles\n'
 p1395
 aS'new pew research center survey findings show how people are using facebook and what they like and dislike about the site  among adult facebook users t'
 p1396
@@ -3189,7 +3189,7 @@ a(lp1409
 I0
 aI1
 aaa(lp1410
-S'500 million people visit Twitter each month without logging in\n'
+S'The world has been at peace only 8% of the time over the last 3,500 years.\n'
 p1411
 aS'5 social media users have risen by 176 million in the last year 6 365 million active mobile social users have been added over the same time span an in'
 p1412
@@ -3225,7 +3225,7 @@ a(lp1425
 I0
 aI1
 aaa(lp1426
-S'There is a total of 1.3 billion accounts, but only 320 million are active\n'
+S'The top 3 content marketing tactics are blogging (65%); social media (64%); and case studies (64%)\n'
 p1427
 aS'snapchat users now watch eight billion videos per day thats getting into facebook territory by kurt wagner feb 29 2016  snapchat was at two billion da'
 p1428
@@ -3261,7 +3261,7 @@ a(lp1441
 I0
 aI1
 aaa(lp1442
-S'Of those, 44% made an account and left before ever sending a Tweet\n'
+S"The size of India's middle class is 300 million people.\n"
 p1443
 aS'data from 20092010 indicates that over 78 million us adults and about 125 million 169  recent reports project that by 2030 half of all adults 115 mill'
 p1444
@@ -3297,7 +3297,7 @@ a(lp1457
 I0
 aI1
 aaa(lp1458
-S'The average Twitter user has 208 followers\n'
+S'The recent financial crisis will push up to 100 million people in developing countries into absolute poverty.\n'
 p1459
 aS' 42 expect a response within 60 minutes is your company prepared to handle social media inquiries within the hour a few are most are not  24 of americ'
 p1460
@@ -3333,7 +3333,7 @@ a(lp1473
 I0
 aI1
 aaa(lp1474
-S'But 391 million accounts have no followers at all\n'
+S'The prevalence of diagnosed diabetes in the U.S. increased by 382% from 1988 to 2014\n'
 p1475
 aS'what percentage of people find their remote in the couch what percentage of people find their remote in the  peripheraldevice manufacturer logitech su'
 p1476
@@ -3369,7 +3369,7 @@ a(lp1489
 I0
 aI1
 aaa(lp1490
-S"There are 500 million Tweets sent each day. That's 6,000 Tweets every second\n"
+S'The number of deaths by suicide in young Australians is the highest it has been in 10 years \n'
 p1491
 aS'the new plugin allowed potential employees to apply for positions using their linkedin profiles as  the linkedin influencers program launched in octob'
 p1492
@@ -3405,7 +3405,7 @@ a(lp1505
 I0
 aI1
 aaa(lp1506
-S"Twitter's top 5 markets (countries) account for 50% of all Tweets\n"
+S'The average sleeper rolls over 12 times in bed per night.\n'
 p1507
 aS'the researchers chose instagram for their study because more than 90 percent of instagram users are younger than 35 they defined teens as people betwe'
 p1508
@@ -3441,7 +3441,7 @@ a(lp1521
 I0
 aI1
 aaa(lp1522
-S'It took 3 years, 2 months and 1 day to go from the first Tweet to the billionth\n'
+S'The average person moves their residence 11 times in their life, about once every 6 years.\n'
 p1523
 aS'are more people are killed each year by vending machines than by sharks its not just an urban legend they kill and injure much more people are more pe'
 p1524
@@ -3477,7 +3477,7 @@ a(lp1537
 I0
 aI1
 aaa(lp1538
-S'65.8% of US companies with 100+ employees use Twitter for marketing\n'
+S'The average mobile viewing session lasts more than 40 minutes\n'
 p1539
 aS'7 social media infographics that will blow your mind  people aged 5564 are more than twice as likely to engage with branded content than those 28 or y'
 p1540
@@ -3513,7 +3513,7 @@ a(lp1553
 I0
 aI1
 aaa(lp1554
-S'77% of Twitter users feel more positive about a brand when their Tweet has been replied to\n'
+S'The average Twitter user has 208 followers\n'
 p1555
 aS'that is the rough equivalent of one photo for every person on the planet every week'
 p1556
@@ -3549,7 +3549,7 @@ a(lp1569
 I0
 aI1
 aaa(lp1570
-S'300 hours of video are uploaded to Youtube every minute\n'
+S'The average CEO has 930 LinkedIn connections\n'
 p1571
 aS'net income increased 140 over q1 2011 to 5 million revenue for q2 was estimated to be between 210 to 215 million in  if the inviter gets too many of s'
 p1572
@@ -3585,7 +3585,7 @@ a(lp1585
 I0
 aI1
 aaa(lp1586
-S'There are 3.25 billion hours of video watched each month\n'
+S'The average American uses 730 crayons by the age of 10.\n'
 p1587
 aS'have a question about cracker jack check out our faq main menu home learn history of cracker jack  it is widely accepted that cracker jack has given a'
 p1588
@@ -3621,7 +3621,7 @@ a(lp1601
 I0
 aI1
 aaa(lp1602
-S'More than half of YouTube views come from mobile devices\n'
+S'The average American male laughs 69 times a day where the average woman laughs 55 times a day.\n'
 p1603
 aS'twitter is the place to engage with companies while just 20 of the of fortune 500 companies actually engage with their customers on facebook 83 have a'
 p1604
@@ -3656,7 +3656,7 @@ a(lp1616
 I0
 aI1
 aaa(lp1617
-S'The average mobile viewing session lasts more than 40 minutes\n'
+S'The average American kid catches 6 colds a year, the average kid in daycare catches 10.\n'
 p1618
 aS'10 facts researchers have discovered about dreams by kendra cherry updated july 31 2017 share pin email print more in psychology basics states of cons'
 p1619
@@ -3692,7 +3692,7 @@ a(lp1632
 I0
 aI1
 aaa(lp1633
-S'The user submitted video with the most views is "Charlie bit my finger", with 834,956,899 views\n'
+S'The average (mean) number of friends is 338, and the median (midpoint) number of friends is 200\n'
 p1634
 aS'dandruff can have several causes including dry skin seborrhoeic  it is hypothesized that for people with dandruff skin cells may mature and be shed in'
 p1635
@@ -3728,7 +3728,7 @@ a(lp1648
 I0
 aI1
 aaa(lp1649
-S'On average, there are 1,000,000,000 mobile video views per day\n'
+S'The US percentage of food-insecure households, those with limited or uncertain ability to acquire acceptable foods in socially acceptable ways, rose from 11% to 15% between 2005 and 2009.\n'
 p1650
 aS'only a small fraction of earths total surface can be used for growing food feed or fiber  thats a lot of land but much of it is not even remotely arab'
 p1651
@@ -3764,7 +3764,7 @@ a(lp1664
 I0
 aI1
 aaa(lp1665
-S'In 2014, the most searched term was music. The second was Minecraft\n'
+S'The Pentagon uses an average of 666 rolls of toilet paper each day.\n'
 p1666
 aS'coupon statistics general facts about coupons  in 2012 10 of the estimated 135 billion coupons printed from home were redeemed 47 of surveyed shoppers'
 p1667
@@ -3800,7 +3800,7 @@ a(lp1680
 I0
 aI1
 aaa(lp1681
-S'9% of U.S small businesses use Youtube\n'
+S'Social media users have risen by 176 million in the last year\n'
 p1682
 aS'only 35  44 of adults 75 years or older are physically active and 2834 of adults ages 6574 are physically active 4 more than 80 of adults do not meet '
 p1683
@@ -3836,7 +3836,7 @@ a(lp1696
 I0
 aI1
 aaa(lp1697
-S'You can navigate YouTube in a total of 76 different languages (covering 95% of the Internet population)\n'
+S'Snapchat users watch 6 billion videos every day\n'
 p1698
 aS'2 million blog posts are written every day heres how you can stand out'
 p1699
@@ -3872,7 +3872,7 @@ a(lp1712
 I0
 aI1
 aaa(lp1713
-S'There are 400 million Monthly Active Users on Instagram\n'
+S'Recent reports project that by 2030, half of all adults (115 million adults) in the United States will be obese.\n'
 p1714
 aS'among teens the total number of users remains high according to pew research center surveys and they are not abandoning the site but focus group inter'
 p1715
@@ -3908,7 +3908,7 @@ a(lp1728
 I0
 aI1
 aaa(lp1729
-S'Over 80 million photos are uploaded each day\n'
+S'People aged 55-64 are more than twice as likely to engage with branded content than those 28 or younger. \n'
 p1730
 aS' the hurricanes have left puerto rico along with many many others devastated our family needs help now more than ever we have still not made contact w'
 p1731
@@ -3944,7 +3944,7 @@ a(lp1744
 I0
 aI1
 aaa(lp1745
-S'There are 3.5 billion Instagram Likes per day\n'
+S'Over 80 million photos are uploaded each day\n'
 p1746
 aS'obesity rates in children 6 to 11 years old have decreased from 188 in 20032004 to 177 in 20112012 obesity rates for children 12 to 19 years old have '
 p1747
@@ -3979,7 +3979,7 @@ a(lp1759
 I0
 aI1
 aaa(lp1760
-S'More than 40 billion photos have been shared so far\n'
+S'Over 3 million companies have created LinkedIn accounts\n'
 p1761
 aS'obesity affects different people in different ways and may increase the risk for other health conditions among people with and without disabilities  a'
 p1762
@@ -4015,7 +4015,7 @@ a(lp1775
 I0
 aI1
 aaa(lp1776
-S'90 percent of Instagram users are younger than 35\n'
+S'Over 15 billion prizes have been given away in cracker jack boxes.\n'
 p1777
 aS'childhood obesity facts  recommend on facebook tweet share compartir on this page prevalence of childhood obesity in the united states  the prevalence'
 p1778
@@ -4051,7 +4051,7 @@ a(lp1791
 I0
 aI1
 aaa(lp1792
-S'When Instagram introduced videos, more than 5 million were shared in 24 hours\n'
+S'Only about 5% of people dream in color.\n'
 p1793
 aS'no piece of square dry paper can be folded more than 7 times in half'
 p1794
@@ -4087,7 +4087,7 @@ a(lp1807
 I0
 aI1
 aaa(lp1808
-S'Pizza is the most popular Instagrammed food, behind sushi and steak\n'
+S'Only 20 Fortune 500 companies actually engage with their customers on Facebook, while 83% have a presence on Twitter. \n'
 p1809
 aS'facts  statistics physical activity only one in three children are physically active every day 1  nearly onethird of high school students play video o'
 p1810
@@ -4123,7 +4123,7 @@ a(lp1823
 I0
 aI1
 aaa(lp1824
-S'32% of US teens cite Instagram as their favourite social network\n'
+S'Only 35 - 44% of adults 75 years or older are physically active, and 28-34% of adults ages 65-74 are physically active.\n'
 p1825
 aS'nearly 45 of children living in poverty are overweight or obese compared with 22 of children living in households with incomes four times the poverty '
 p1826
@@ -4159,7 +4159,7 @@ a(lp1839
 I0
 aI1
 aaa(lp1840
-S'176 million Pinterest accounts have been registered\n'
+S'Only 6% of the land on Earth is suitable for growing crops.\n'
 p1841
 aS'additionally we advised all members of linkedin to change their passwords as a matter of best practice linkedin official blog official blog  of an add'
 p1842
@@ -4195,7 +4195,7 @@ a(lp1855
 I0
 aI1
 aaa(lp1856
-S'But only 100 million are active each month\n'
+S'Only 6% of all coupons printed are ever redeemed.\n'
 p1857
 aS'more than 23 million americans including 65 million children live in food deserts  areas that are more than a mile away from a supermarket 9 in 2008 a'
 p1858
@@ -4230,7 +4230,7 @@ a(lp1870
 I0
 aI1
 aaa(lp1871
-S'42% of all online women use the platform\n'
+S'Only 30% of U.S. adults actually have dandruff while 50% are "self conscious about it."\n'
 p1872
 aS'try the new childcare costs calculator on govuk to estimate how much help you could get from the government for approved childcare are you entitled to'
 p1873
@@ -4266,7 +4266,7 @@ a(lp1886
 I0
 aI1
 aaa(lp1887
-S'The best time to Pin is Saturday from 8pm-11pm\n'
+S'On WordPress alone, 56 million blog posts are published every month\n'
 p1888
 aS'rating is available when the video has been rented this feature is not available right now  where founded facebook as a student in 2004 72 billion so '
 p1889
@@ -4302,7 +4302,7 @@ a(lp1902
 I0
 aI1
 aaa(lp1903
-S'In 2014, male audience grew 41% and their average time spent on Pinterest tripled to more than 75 minutes per visitor\n'
+S"Of those, 24% say that they look at posts or photos on that person's account\n"
 p1904
 aS'more than 80 of adults do not meet the guidelines for both aerobic and musclestrengthening activities similarly more than 80 of adolescents do not do '
 p1905
@@ -4338,7 +4338,7 @@ a(lp1918
 I0
 aI1
 aaa(lp1919
-S'66% of content that users Pin comes from brand websites\n'
+S'Of those, 44% made an account and left before ever sending a Tweet\n'
 p1920
 ag494
 a(lp1921
@@ -4373,7 +4373,7 @@ a(lp1933
 I0
 aI1
 aaa(lp1934
-S'LinkedIn has 450 million members\n'
+S'Obesity rates in children 6 to 11 years old have decreased from 18.8% in 2003-2004 to 17.7% in 2011-2012; obesity rates for children 12 to 19 years old have increased from 17.4% to 20.5% in the same time period.\n'
 p1935
 aS'125 amazing social media statistics you should know in 2016 social media marketing is the excellent way for branding  over 176 million pinterest accou'
 p1936
@@ -4409,7 +4409,7 @@ a(lp1949
 I0
 aI1
 aaa(lp1950
-S'100 million of those access the site on a monthly basis\n'
+S'Obesity rates for adults with disabilities are approximately 57% higher than for adults without disabilities.\n'
 p1951
 aS'since the beginning weve tried to make instagram a welcoming place for everyone our community has grown to 800 million with 500 million using it every'
 p1952
@@ -4445,7 +4445,7 @@ a(lp1965
 I0
 aI1
 aaa(lp1966
-S'More than 1 million members have published content on LinkedIn\n'
+S'Obesity among children in the United States has remained flat - at around 17% - in 2003-2004 and 2011-2012.\n'
 p1967
 aS'each month over 50 million developers come to stack overflow to  display name email address password by registering you agree to the privacy policy an'
 p1968
@@ -4480,7 +4480,7 @@ a(lp1980
 I0
 aI1
 aaa(lp1981
-S'The average CEO has 930 LinkedIn connections\n'
+S'No piece of square dry paper can be folded in half more than 7 times!\n'
 p1982
 aS'page views for wikipedia nonmobile site normalized thursday september 28 2017 show firefox ctrl ctrlzoom list all page  m  10 6 k  10 3 page views for'
 p1983
@@ -4516,7 +4516,7 @@ a(lp1996
 I0
 aI1
 aaa(lp1997
-S'Over 3 million companies have created LinkedIn accounts\n'
+S'Nearly one-third of high school students play video or computer games for 3 or more hours on an average school day.\n'
 p1998
 aS' social media users have risen by 176 million in the last year  12 new active mobile social users are added every second thats 1 million per day '
 p1999
@@ -4552,7 +4552,7 @@ a(lp2012
 I0
 aI1
 aaa(lp2013
-S'But only 17% of US small businesses use LinkedIn\n'
+S'Nearly 45% of children living in poverty are overweight or obese compared with 22% of children living in households with incomes four times the poverty level.\n'
 p2014
 aS'linkedin settled the lawsuit in 2015 for 13 million many members should have received a notice in their email with the subject line legal notice of se'
 p2015
@@ -4587,7 +4587,7 @@ a(lp2027
 I0
 aI1
 aaa(lp2028
-S'There are 74 lobbyists for every one senator in Washington D.C.\n'
+S'More than 1 million members have published content on LinkedIn\n'
 p2029
 ag542
 a(lp2030
@@ -4622,7 +4622,7 @@ a(lp2042
 I0
 aI1
 aaa(lp2043
-S"Astronaut Shannon Lucis spent 188 days in a row in space. That's the American record.\n"
+S'More than 23 million Americans, including 6.5 million children, live in food deserts \xe2\x80\x93 areas that are more than a mile away from a supermarket.\n'
 p2044
 aS'good questions with even better answers  only on yahoo answers help other users discover and discuss interesting questions with you  everyday did you '
 p2045
@@ -4658,7 +4658,7 @@ a(lp2058
 I0
 aI1
 aaa(lp2059
-S'In the U.S. the average bride is 21 years old, the average groom is 23.\n'
+S'More than 7 in 10 parents have looked for or received information or advice about how to help their child manage online risks\n'
 p2060
 aS'while many aspects of weddings have become less traditional and cookiecutter over the years one convention stubbornly remains in heterosexual unions  '
 p2061
@@ -4694,7 +4694,7 @@ a(lp2074
 I0
 aI1
 aaa(lp2075
-S'If you yelled for over 8 and a half years, you would have produced enough sound energy to heat one cup of coffee.\n'
+S'More than 40 billion photos have been shared so far\n'
 p2076
 aS'the forest floor of primary tropical rainforest is rarely the thick tangled jungle of movies and  of canopy vegetation above the canopy not only block'
 p2077
@@ -4730,7 +4730,7 @@ a(lp2090
 I0
 aI1
 aaa(lp2091
-S'No piece of square dry paper can be folded in half more than 7 times!\n'
+S'More than 80% of adults do not meet the guidelines for both aerobic and muscle-strengthening activities, and more than 80% of adolescents do not do enough aerobic physical activity to meet the guidelines for youth.\n'
 p2092
 aS'its so hard to have engaged employees its such a delicate thing to try and get right because employees can be fragile  idea is a good one and not ever'
 p2093
@@ -4766,7 +4766,7 @@ a(lp2106
 I0
 aI1
 aaa(lp2107
-S'If you counted for 24 hours a day, it would take over 31,000 years to reach one trillion.\n'
+S'LinkedIn has 450 million members\n'
 p2108
 aS'the experiences of 1116 year olds on social networking sites the experiences of 1116 year olds claire lilley ruth ball  networking site have experienc'
 p2109
@@ -4802,7 +4802,7 @@ a(lp2122
 I0
 aI1
 aaa(lp2123
-S'The world record for passing gas was set on Japanese television, 3,000 times in a row.\n'
+S'Less than 5% of adults participate in 30 minutes of physical activity each day; only one in three adults receive the recommended amount of physical activity each week.\n'
 p2124
 aS'916 year old internet users and their parents in 25 countries using a stratified random sample and selfcompletion methods for sensitive questions now '
 p2125
@@ -4838,7 +4838,7 @@ a(lp2138
 I0
 aI1
 aaa(lp2139
-S"There are more collect calls on father's Day than any other day of the year.\n"
+S'It took 3 years, 2 months and 1 day to go from the first Tweet to the billionth\n'
 p2140
 aS'number of children who are victims of cyberbullying doubles in a year  the number of children being bullied on the internet has doubled in the past ye'
 p2141
@@ -4874,7 +4874,7 @@ a(lp2154
 I0
 aI1
 aaa(lp2155
-S'There are 293 ways to make change for a dollar.\n'
+S'In the densest jungle, only 1% of sunlight ever reaches the forest floor.\n'
 p2156
 aS'as many as 1 in 3 us adults could have diabetes by 2050 if current trends continue according to a new analysis from the centers for disease control an'
 p2157
@@ -4910,7 +4910,7 @@ a(lp2170
 I0
 aI1
 aaa(lp2171
-S'Top Six reasons for being late for work: 1) traffic. 2) oversleeping. 3) procrastination. 4) Chores. 5) Car Trouble. 6) Having Sex.\n'
+S'In the U.S. the average bride is 21 years old, the average groom is 23.\n'
 p2172
 aS'home frequently asked minecraft questions  parent edition these are some of the most common questions that i get from other parents about minecraft  s'
 p2173
@@ -4946,7 +4946,7 @@ a(lp2186
 I0
 aI1
 aaa(lp2187
-S'The word electricity derives from the Greek word \xe2\x80\x9celektron\xe2\x80\x9d meaning amber.\n'
+S'In 2014, the most searched term was music. The second was Minecraft\n'
 p2188
 aS'online abuse facts and statistics  online abuse facts and statistics  more on this topic  online abuse signs indicators and effects who is  the intern'
 p2189
@@ -4982,7 +4982,7 @@ a(lp2202
 I0
 aI1
 aaa(lp2203
-S'Banging your head against a wall uses 150 calories an hour.\n'
+S'In 2016, the Internet Watch Foundation identified over 57,000 URLs containing child sexual abuse images\n'
 p2204
 aS'in 2013 residents of the following states were most likely to report eating at least five servings of vegetables four or more days per week vermont 68'
 p2205
@@ -5017,7 +5017,7 @@ a(lp2217
 I0
 aI1
 aaa(lp2218
-S"The tallest man in the world was 8'11\xe2\x80\x9d Robert Wadlow. He was just 22 when he died in 1949 from an infection caused by leg braces he needed to keep him on his feet.\n"
+S'In 2013, residents of the following states were most likely to report eating at least five servings of vegetables four or more days per week: Vermont (68.7%), Montana (63.0%) and Washington (61.8%). The least likely were Oklahoma (52.3%), Louisiana (53.3%) and Missouri (53.8%). The national average for regular produce consumption is 57.7%.\n'
 p2219
 aS' research found adults in the following states to be most likely to report exercising 3 or more days a week for at least 30 minutes vermont 653 hawaii'
 p2220
@@ -5049,7 +5049,7 @@ a(lp2229
 I0
 aI1
 aaa(lp2230
-S'There is now an ATM at McMurdo Station in Antarctica, which has a winter population of 200.\n'
+S'In 2013, research found adults in the following states to be most likely to report exercising 3 or more days a week for at least 30 minutes: Vermont (65.3%), Hawaii (62.2%), Montana (60.1%), Alaska (60.1%). The least likely were Delaware (46.5%), West Virginia (47.1%) and Alabama (47.5%). The national average for regular exercise is 51.6%.\n'
 p2231
 aS'percent of women who color dye their hair and most popular color'
 p2232
@@ -5085,7 +5085,7 @@ a(lp2245
 I0
 aI1
 aaa(lp2246
-S'Around one in 35 young Australians aged 4-17 experience a depressive disorder. \n'
+S'In 1950, only 7% of Americans dyed their hair, now 75% do.\n'
 p2247
 aS'complete social media management 247  we do not stop posting our mission it to generate huge organic traffic and a real solid following  in 2014 male '
 p2248
@@ -5121,7 +5121,7 @@ a(lp2261
 I0
 aI1
 aaa(lp2262
-S'One in seven young Australians experience a mental health condition.\n'
+S'In 2014, male audience grew 41% and their average time spent on Pinterest tripled to more than 75 minutes per visitor\n'
 p2263
 aS'in 2008 an estimated 491 million people including 167 million children experienced food insecurity limited availability to safe and nutritionally adeq'
 p2264
@@ -5154,7 +5154,7 @@ a(lp2274
 I0
 aI1
 aaa(lp2275
-S'One in fourteen young Australians (6.9%) aged 4-17 experienced an anxiety disorder in 2015. This is equivalent to approximately 278,000 young people.\n'
+S'In 2008, an estimated 49.1 million people, including 16.7 million children, experienced food insecurity (limited availability to safe and nutritionally adequate foods) multiple times throughout the year.\n'
 p2276
 aS'us census bureau censusgov introduction families and living arrangements in the united states have changed over time  1 the 80 million people living i'
 p2277
@@ -5190,7 +5190,7 @@ a(lp2290
 I0
 aI1
 aaa(lp2291
-S'The number of deaths by suicide in young Australians is the highest it has been in 10 years \n'
+S'In 1998, 58% of American adults were married and living with their spouses, an all time low.\n'
 p2292
 aS'africa is the second most populated continent with around 1 billion people or 15 of the worlds population  there is no estimation for the exact day or'
 p2293
@@ -5226,7 +5226,7 @@ a(lp2306
 I0
 aI1
 aaa(lp2307
-S'Around one in three young Australian adults aged 18-24 years report experiencing racial discrimination because of their skin colour, ethnic origin or religion.\n'
+S"In 2006, 2.6 billion people, or 40% of the world's population, lived on less than $2 a day, with 1 billion of them surviving on the margins of subsistence with less than $1 a day.\n"
 p2308
 aS'new findings from nielsens television audience report show that in 2009 the average american home had 286 tv sets which is roughly 18 higher than in 2'
 p2309
@@ -5262,7 +5262,7 @@ a(lp2322
 I0
 aI1
 aaa(lp2323
-S'Approximately one in four young people aged 13-19 years with Type 1 Diabetes experience moderate to severe symptoms of depression and anxiety.\n'
+S'In 1948, 2.3% of American households had televisions. Today 99% do.\n'
 p2324
 aS'how long would you have to yell to heat a cup of coffee download the poster order this poster view all posters yelling at a cup of coffee to warm it u'
 p2325
@@ -5298,7 +5298,7 @@ a(lp2338
 I0
 aI1
 aaa(lp2339
-S'Around one in four Aboriginal and Torres Strait Islander young people aged 15\xe2\x80\x9324 years report experiencing discrimination because they were of Aboriginal and/or Torres Strait Islander origin.\n'
+S'If you yelled for over 8 and a half years, you would have produced enough sound energy to heat one cup of coffee.\n'
 p2340
 aS'how long will it take to count to one trillion if i count 1 digit per second 24 hours a day'
 p2341
@@ -5334,7 +5334,7 @@ a(lp2354
 I0
 aI1
 aaa(lp2355
-S'Evidence suggests three in four adult mental health conditions emerge by age 24 and half by age 14\n'
+S'If you counted for 24 hours a day, it would take over 31,000 years to reach one trillion.\n'
 p2356
 aS'ice snow and glaciers the water cycle new water cycle for kids poster nasas aqua satellite used microwaves to capture this snapshot of arctic sea  the'
 p2357
@@ -5370,7 +5370,7 @@ a(lp2370
 I0
 aI1
 aaa(lp2371
-S'1 in 10 American adults has diabetes.\n'
+S'Ice covers about 15% of the earth.\n'
 p2372
 aS'other video platforms are reporting incredible growth but what about youtube reelseo predicts youtube is already seeing 500 hours uploaded every minut'
 p2373
@@ -5406,7 +5406,7 @@ a(lp2386
 I0
 aI1
 aaa(lp2387
-S'There were 1.7 million new cases of diabetes in 2012.\n'
+S'Government debt has surged to an all-time high of $19 trillion, almost 200 times where it was at the end of World War 2\n'
 p2388
 aS'government debt has surged to an alltime high of 19 trillion almost 200 times where it was at the end of world war 2 statistic government debt is 105 '
 p2389
@@ -5442,7 +5442,7 @@ a(lp2402
 I0
 aI1
 aaa(lp2403
-S'60% to 70% of people with diabetes experience nervous disorders.\n'
+S'Google processes 100 billion searches a month\n'
 p2404
 aS'google still doing at least 1 trillion searches per year company is sticking with figure it gave in 2012 but stresses its over that amount how much ov'
 p2405
@@ -5478,7 +5478,7 @@ a(lp2418
 I0
 aI1
 aaa(lp2419
-S'Approximately every 3 minutes one person in the United States (US) is diagnosed with a blood cancer.\n'
+S'Google has answered 450 billion unique queries since 2003\n'
 p2420
 aS'google search statistics retrieving data google searches today view how many in 1 second google search volume current and historical growth rate  disc'
 p2421
@@ -5513,7 +5513,7 @@ a(lp2433
 I0
 aI1
 aaa(lp2434
-S'New cases of leukemia, lymphoma and myeloma are expected to account for 10.2 percent of the estimated 1,688,780 new cancer cases diagnosed in the US in 2017.\n'
+S'For children with disabilities, obesity rates are approximately 38% higher than for children without disabilities.\n'
 p2435
 aS' affects different people in different ways and may increase the risk for other health conditions among people with and without disabilities  nonhispa'
 p2436
@@ -5547,7 +5547,7 @@ a(lp2447
 I0
 aI1
 aaa(lp2448
-S'An estimated 110,345 people in the US are living with, or in remission from, myeloma.\n'
+S'Food safety awareness goes hand-in-hand with nutrition education. In the United States, food-borne agents affect 1 out of 6 individuals and cause approximately 48 million illnesses, 128,000 hospitalizations, and 3,000 deaths each year.\n'
 p2449
 aS'food safety awareness goes handinhand with nutrition education in the united states foodborne agents affect 1 out of 6 individuals and cause approxima'
 p2450
@@ -5580,7 +5580,7 @@ a(lp2460
 I0
 aI1
 aaa(lp2461
-S'Transportation costs rose 2.8% on a year-over-year basis in August, following a 1.9% increase the previous month.\n'
+S'Food available for consumption increased in all major food categories from 1970 to 2008. Average daily calories per person in the marketplace increased approximately 600 calories.\n'
 p2462
 aS'food available for consumption increased in all major food categories from 1970 to 2008 average daily calories per person in the marketplace increased'
 p2463
@@ -5615,7 +5615,7 @@ a(lp2475
 I0
 aI1
 aaa(lp2476
-S'Consumer prices for food rose 0.9% in January, after increasing 0.6% in December.\n'
+S'Facebook now sees 8 billion average daily video views from 500 million users\n'
 p2477
 aS'facebook video viewership is growing by leaps and bounds it now sees 8 billion average daily video views from 500 million users thats up from '
 p2478
@@ -5651,7 +5651,7 @@ a(lp2491
 I0
 aI1
 aaa(lp2492
-S'One in five 8 to 11 year olds and seven in ten 12 to 15 year olds has a social media profile\n'
+S'Facebook accounts for 62% of social logins made by consumers to sign into the apps and websites of publishers and brands\n'
 p2493
 aS'techcrunch launches a personalized news recommendations bot on facebook messenger  facebook messenger and whatsapp combined see 3 times more messages '
 p2494
@@ -5687,7 +5687,7 @@ a(lp2507
 I0
 aI1
 aaa(lp2508
-S'1 in 3 internet users are children\n'
+S'Facebook Messenger and Whatsapp handle 60 billion messages a day. \n'
 p2509
 aS'facebook accounts for 62 of social logins made by consumers to sign into the apps and websites of publishers and brands 80 million people use facebook'
 p2510
@@ -5722,7 +5722,7 @@ a(lp2522
 I0
 aI1
 aaa(lp2523
-S'1 in 4 children have experienced something upsetting on a social networking site.\n'
+S"Every day, 16 to 20% of that day's queries have never been asked before\n"
 p2524
 aS'home  trends and more  google search statistics  google search statistics retrieving data google searches today view how many in 1 second  disclosed t'
 p2525
@@ -5758,7 +5758,7 @@ a(lp2538
 I0
 aI1
 aaa(lp2539
-S'There were over 12,000 counselling sessions with young people who talked to Childline about online issues last year\n'
+S'Empty calories from added sugars and solid fats contribute to 40% of total daily calories for 2\xe2\x80\x9318 year olds and half of these empty calories come from six sources: soda, fruit drinks, dairy desserts, grain desserts, pizza, and whole milk.\n'
 p2540
 aS'the objective of this research was to identify top dietary sources of energy solid fats and added sugars among 218 year olds in the united states skip'
 p2541
@@ -5794,7 +5794,7 @@ a(lp2554
 I0
 aI1
 aaa(lp2555
-S'1 in 3 children have been a victim of cyberbullying.\n'
+S'Chocolate manufacturers use 40 percent of the worlds almonds.\n'
 p2556
 aS'bonnat chocolatier is the oldest artisan producer of chocolate in the world  the first chocolate manufacturer in the us to be both 100 percent organic'
 p2557
@@ -5830,7 +5830,7 @@ a(lp2570
 I0
 aI1
 aaa(lp2571
-S'More than 7 in 10 parents have looked for or received information or advice about how to help their child manage online risks\n'
+S'Car airbags kill 1 person for every 22 lives that they save.\n'
 p2572
 aS'we know air bags can kill people do they actually save anybody november 27 1998 dear cecil i just returned from a holiday in  itd be a bummer to have '
 p2573
@@ -5866,7 +5866,7 @@ a(lp2586
 I0
 aI1
 aaa(lp2587
-S'Almost 1 in 4 young people have come across racist or hate messages online.\n'
+S'By 2014, Google had indexed 30,000,000,000,000 pages of the internet\n'
 p2588
 aS'google server statistics data total number of google servers 920000 total size of googles index data 100000000 gb percent of worldwide electricity use'
 p2589
@@ -5902,7 +5902,7 @@ a(lp2602
 I0
 aI1
 aaa(lp2603
-S'In 2016, the Internet Watch Foundation identified over 57,000 URLs containing child sexual abuse images\n'
+S'But only 2 million of those businesses pay for advertising\n'
 p2604
 aS'those advertising their businesses on the site see that mark as an indicator that their marketing strategy is working to attract even  going back to t'
 p2605
@@ -5938,7 +5938,7 @@ a(lp2618
 I0
 aI1
 aaa(lp2619
-S'There were over 2,100 counselling sessions with young people who talked in Childline about online child sexual exploitation (CSE) in 2016/17 \n'
+S'But only 100 million are active each month\n'
 p2620
 aS'how much revenue can an app generate with 5 million daily active users 30 minutes plus a day update cancel promoted by jetbrains  how much money can a'
 p2621
@@ -5974,7 +5974,7 @@ a(lp2634
 I0
 aI1
 aaa(lp2635
-S'Approximately 1.25 million American children and adults have type 1 diabetes.\n'
+S'But only 17% of US small businesses use LinkedIn\n'
 p2636
 aS'i got serious about using linkedin several years ago after learning of the real value of linkedin during a course that i was going through that really'
 p2637
@@ -6010,7 +6010,7 @@ a(lp2650
 I0
 aI1
 aaa(lp2651
-S'85.2% of people with type 2 diabetes are overweight or obese\n'
+S'But 391 million accounts have no followers at all\n'
 p2652
 aS'time taken the fastest verified twitter accounts to reach 1 million twitter followers as of june 2015 in minutes fastest twitter accounts to reach 1 m'
 p2653
@@ -6046,7 +6046,7 @@ a(lp2666
 I0
 aI1
 aaa(lp2667
-S'The prevalence of diagnosed diabetes in the U.S. increased by 382% from 1988 to 2014\n'
+S'Between 2003 and 2012, obesity among children between 2 and 5 years of age has declined from 14% to 8% - a 43% decrease in just under a decade.\n'
 p2668
 ag1778
 a(lp2669
@@ -6081,7 +6081,7 @@ a(lp2681
 I0
 aI1
 aaa(lp2682
-S'A person with diagnosed diabetes at age 50 dies 6 years earlier than a counterpart without diabetes\n'
+S'Banging your head against a wall uses 150 calories an hour.\n'
 p2683
 aS'20 bizarre ways to burn calories  banging your head against a wall uses 150 calories an hour on average brushing your teeth for three minutes will bur'
 p2684
@@ -6117,7 +6117,7 @@ a(lp2697
 I0
 aI1
 aaa(lp2698
-S"In 2006, 2.6 billion people, or 40% of the world's population, lived on less than $2 a day, with 1 billion of them surviving on the margins of subsistence with less than $1 a day.\n"
+S"Astronaut Shannon Lucis spent 188 days in a row in space. That's the American record.\n"
 p2699
 aS' wells lucid born january 14 1943 is an american biochemist and a retired nasa astronaut  at one time she held the record for the longest duration sta'
 p2700
@@ -6153,7 +6153,7 @@ a(lp2713
 I0
 aI1
 aaa(lp2714
-S'New York City is far from the largest city in the world, actually in 16th place at just under 8.5 million people. \n'
+S'Approximately every 3 minutes one person in the United States (US) is diagnosed with a blood cancer.\n'
 p2715
 aS'approximately every 3 minutes one person in the united states us is diagnosed with a blood cancer an estimated combined total of 172910 people in the '
 p2716
@@ -6189,7 +6189,7 @@ a(lp2729
 I0
 aI1
 aaa(lp2730
-S'4 percent of lost remotes are found in the fridge or freezer\n'
+S'Almost 1 in 4 young people have come across racist or hate messages online.\n'
 p2731
 aS'textbooks are dry and hard to read but if you dont have time to read the whole chapter like youre supposed to there is actually a better solution than'
 p2732
@@ -6225,7 +6225,7 @@ a(lp2745
 I0
 aI1
 aaa(lp2746
-S"there's a nearly 50 percent chance that your lost remote control is stuck between your sofa cushions\n"
+S'Almost 40% of Black and Latino youth ages 2 to 19 are overweight or obese compared with only 29% of White youth.\n'
 p2747
 ag1826
 a(lp2748
@@ -6260,7 +6260,7 @@ a(lp2760
 I0
 aI1
 aaa(lp2761
-S'According to suicide statistics, Monday is the favored day for self-destruction.\n'
+S'About 90% of Americans eat more sodium than is recommended for a healthy diet.\n'
 p2762
 aS'about 90 of americans eat more sodium than is recommended for a healthy diet too much sodium increases a persons risk for high blood pressure'
 p2763
@@ -6296,7 +6296,7 @@ a(lp2776
 I0
 aI1
 aaa(lp2777
-S'25% of American men are now six feet or taller, compared to only 4% on 1900.\n'
+S'A 2011 study by AOL/Nielsen showed that 27 million pieces of content were shared every day, and today 3.2 billion images are shared each day. \n'
 p2778
 aS'247 billion emails are sent every day  but todays content promotion landscape is saturated  in 2016 89 of marketers said that email is their primary c'
 p2779
@@ -6332,7 +6332,7 @@ a(lp2792
 I0
 aI1
 aaa(lp2793
-S'Ice covers about 15% of the earth.\n'
+S'A person with diagnosed diabetes at age 50 dies 6 years earlier than a counterpart without diabetes\n'
 p2794
 aS' people with diagnosed diabetes have health care costs 23 times higher than what expenditures would be in the absence of diabetes  1 in 10 health care'
 p2795
@@ -6368,7 +6368,7 @@ a(lp2808
 I0
 aI1
 aaa(lp2809
-S'In 1950, only 7% of Americans dyed their hair, now 75% do.\n'
+S'60% to 70% of people with diabetes experience nervous disorders.\n'
 p2810
 aS'kidnap and ransom news  have taken at least 125 million in revenue from kidnapping for ransom since 2008 roughly half or 66 million was paid out in 20'
 p2811
@@ -6404,7 +6404,7 @@ a(lp2824
 I0
 aI1
 aaa(lp2825
-S'36% of the great lakes lie within Canadian territory.\n'
+S'23% of workers said they would work harder if their employer offered a "$1,000 shopping spree at a store of their choice."\n'
 p2826
 aS'caring for diabetesrelated nerve disorders neuropathy by ann pappert what is diabetic neuropathy some diseases  neuropathy remains frighteningly commo'
 p2827
@@ -6440,7 +6440,7 @@ a(lp2840
 I0
 aI1
 aaa(lp2841
-S'Only 6% of all coupons printed are ever redeemed.\n'
+S'57% of women would rather go on a shopping spree than have sex.\n'
 p2842
 aS'for example if your current job has good worklife balance or gives you a flexible schedule so you can drive your kids carpool you might want those in '
 p2843
@@ -6476,7 +6476,7 @@ a(lp2856
 I0
 aI1
 aaa(lp2857
-S'The world has been at peace only 8% of the time over the last 3,500 years.\n'
+S'32% of women and 8% of men say they are better at doing laundry than their spouse.\n'
 p2858
 aS'top 10 things better than sex  60 of 1624 yearolds would rather go without sex than music for a week  this makes sense since im sure at least 24 perce'
 p2859
@@ -6512,7 +6512,7 @@ a(lp2872
 I0
 aI1
 aaa(lp2873
-S'60% of all atheists and agnostics say they own at least one bible.\n'
+S'46% of violence on T.V. occurs in cartoons.\n'
 p2874
 aS'women who are seven to nine years older than their husbands have a 20 higher mortality rate than if they were the same age share on facebook share on '
 p2875
@@ -6584,7 +6584,7 @@ a(lp2904
 I0
 aI1
 aaa(lp2905
-S'There is a 33% chance that a peanut grown in the U.S. will end up as peanut butter.\n'
+S"96% of the people that discuss brands online do not follow those brands' owned profiles. \n"
 p2906
 aS'which social media and messaging apps do teenagers prefer anne freier in app analytics app data app stats  is being cited as their favourite social ne'
 p2907
@@ -6620,7 +6620,7 @@ a(lp2920
 I0
 aI1
 aaa(lp2921
-S'In the densest jungle, only 1% of sunlight ever reaches the forest floor.\n'
+S'13% of the letters in a given book are "e".\n'
 p2922
 aS'some employees find a 20minute nap during the day will boost their productivity early morning commuters prepare to board the northbound train at the m'
 p2923
@@ -6656,7 +6656,7 @@ a(lp2936
 I0
 aI1
 aaa(lp2937
-S'75% of all murder victims knew their killer.\n'
+S'36% of the great lakes lie within Canadian territory.\n'
 p2938
 aS'11 small business ideas that are easy to start 2017 visit httpselfmadesuccesscomsmallbusinessideaseasy2017 for video notes related content and h'
 p2939
@@ -6692,7 +6692,7 @@ a(lp2952
 I0
 aI1
 aaa(lp2953
-S'Only 6% of the land on Earth is suitable for growing crops.\n'
+S'95% of the creatures on earth are smaller than a chicken egg.\n'
 p2954
 aS'brandwatch knowledge newsletter find it in your inbox every other thursday what is dark social and how can you track it  77 of twitter users feel more'
 p2955
@@ -6728,7 +6728,7 @@ a(lp2968
 I0
 aI1
 aaa(lp2969
-S"72% of Americans don't know the people who live next door.\n"
+S"60% of the county of Leichtenstein's GDP is generated from the sale of false teeth.\n"
 p2970
 aS'ice snow and glaciers the water cycle new water cycle for kids poster nasas aqua satellite used microwaves to capture this snapshot of arctic sea  in '
 p2971
@@ -6764,7 +6764,7 @@ a(lp2984
 I0
 aI1
 aaa(lp2985
-S'25% of adults say online romances "don\'t count as cheating."\n'
+S'32% of singles polled think they will meet their future mate online.\n'
 p2986
 aS'brandwatch knowledge newsletter cuttingedge social research and practical insights delivered straight to your inbox  thanks  96 of people talking abou'
 p2987
@@ -6800,7 +6800,7 @@ a(lp3000
 I0
 aI1
 aaa(lp3001
-S"19% of men say they wouldn't mind being stupid as long as they had the perfect body.\n"
+S'58% of school kids say pizza is their favorite cafeteria food.\n'
 p3002
 aS'while rotokas has a small alphabet because it has few phonemes to represent just eleven book pahlavi was small because many letters had been conflated'
 p3003
@@ -6836,7 +6836,7 @@ a(lp3016
 I0
 aI1
 aaa(lp3017
-S'24% of commuters say that when stuck in traffic, they think "deep thoughts."\n'
+S'91% of retail brands use 2 or more social media channels\n'
 p3018
 aS'the great lakes region of north america is a binational canadianamerican region that includes portions of the eight us states of illinois  support fro'
 p3019
@@ -6872,7 +6872,7 @@ a(lp3032
 I0
 aI1
 aaa(lp3033
-S'1% of U.S. businesses allow their employees to take naps during working hours.\n'
+S'63% of pet owners sleep with their pets.\n'
 p3034
 aS'chickens and other egglaying creatures are widely kept throughout the world  the most commonly used bird eggs are those from the chicken duck and goos'
 p3035
@@ -6908,7 +6908,7 @@ a(lp3048
 I0
 aI1
 aaa(lp3049
-S'20% of men say that their TV has taught them more about life than their parents have.\n'
+S'35% of people watching T.V. yell at it.\n'
 p3050
 aS'many teeth also escaped but that is to be expected i just gathered them up and saved them for the end sinusclearing next i soaked the skull in a vat o'
 p3051
@@ -6944,7 +6944,7 @@ a(lp3064
 I0
 aI1
 aaa(lp3065
-S'60% of American babies are names after relatives.\n'
+S'78% of people watch online videos every week, 55% watch every day\n'
 p3066
 aS'5 facts about online dating by aaron smith and monica anderson  here are five facts about online dating 1 online dating has lost much of its stigma an'
 p3067
@@ -6980,7 +6980,7 @@ a(lp3080
 I0
 aI1
 aaa(lp3081
-S'Most babies are born in August and September.\n'
+S'85% of parents use child safety seats incorrectly.\n'
 p3082
 aS'students arent eating healthy school lunches despite availability how cafeterias fail to improve  the students were much more likely to finish all of '
 p3083
@@ -7016,7 +7016,7 @@ a(lp3096
 I0
 aI1
 aaa(lp3097
-S'Chocolate manufacturers use 40 percent of the worlds almonds.\n'
+S'38% of organizations plan to spend more than 20% of their total advertising budgets on social media channels in 2015, up from 13% a year ago. \n'
 p3098
 aS' we take out our crystal ball to see what social media trends are in store for 2017  expect the popular social media feature to move across channels a'
 p3099
@@ -7052,7 +7052,7 @@ a(lp3112
 I0
 aI1
 aaa(lp3113
-S'Over 15 billion prizes have been given away in cracker jack boxes.\n'
+S'85% of obscene calls are made by males.\n'
 p3114
 aS'new research looks at quality of sleep for pet owners who keep their dogs in their rooms at night'
 p3115
@@ -7088,7 +7088,7 @@ a(lp3128
 I0
 aI1
 aaa(lp3129
-S'$26 billion has been paid out in ransom in the United States in the last 20 years.\n'
+S"19% of men say they wouldn't mind being stupid as long as they had the perfect body.\n"
 p3130
 aS'people are watching more online video on their computers smart tvs and multimedia devices'
 p3131
@@ -7124,7 +7124,7 @@ a(lp3144
 I0
 aI1
 aaa(lp3145
-S'13 people are killed each year by vending machines falling on them.\n'
+S'20% of men say that their TV has taught them more about life than their parents have.\n'
 p3146
 aS'us adults spend 55 hours with video content each day digital video viewing adds significant time to the average us consumers media day  us adults will'
 p3147
@@ -7160,7 +7160,7 @@ a(lp3160
 I0
 aI1
 aaa(lp3161
-S'The annual growth of WWW traffic is 314,000%.\n'
+S'80% of high school athletes, male and female, say they have been hazed.\n'
 p3162
 aS'statistics experts say that most child car seats are installed incorrectly  although these children are restrained 3 out of 4 child safety seats are u'
 p3163
@@ -7196,7 +7196,7 @@ a(lp3176
 I0
 aI1
 aaa(lp3177
-S'53% of Americans think they are paid the right amount.\n'
+S'66% of content that users Pin comes from brand websites\n'
 p3178
 aS'113 survey respondents for organizations with more than 250 employees the 2015 state of social business  plan to spend more than 20 of their total adv'
 p3179
@@ -7232,7 +7232,7 @@ a(lp3192
 I0
 aI1
 aaa(lp3193
-S'About 8,000 Americans are injured by musical instruments each year.\n'
+S'24% of commuters say that when stuck in traffic, they think "deep thoughts."\n'
 p3194
 aS'an obscene phone call as the term is commonly used is an unsolicited telephone call where a person derives sexual pleasure by using sexual or foul lan'
 p3195
@@ -7268,7 +7268,7 @@ a(lp3208
 I0
 aI1
 aaa(lp3209
-S'One in twelve Americans alphabetize their spice rack.\n'
+S'42% of all online women use the platform\n'
 p3210
 aS'quotes on education  education is an easy target for criticism because its stated aims are often so nobly ambitious that they have little chance of be'
 p3211
@@ -7304,7 +7304,7 @@ a(lp3224
 I0
 aI1
 aaa(lp3225
-S'95% of the creatures on earth are smaller than a chicken egg.\n'
+S'72% of all online US adults visit Facebook at least once a month\n'
 p3226
 aS'republican men say its a better time to be a woman than a man claire cain miller clairecm jan 17 2017  democrats of both genders were much more likely'
 p3227
@@ -7340,7 +7340,7 @@ a(lp3240
 I0
 aI1
 aaa(lp3241
-S'57% of women would rather go on a shopping spree than have sex.\n'
+S'75% of all murder victims knew their killer.\n'
 p3242
 aS'thanks in large part to testosterone men are generally heavier and taller than women they have longer limbs relative to their height bigger hearts and'
 p3243
@@ -7376,7 +7376,7 @@ a(lp3256
 I0
 aI1
 aaa(lp3257
-S'63% of pet owners sleep with their pets.\n'
+S'60% of all atheists and agnostics say they own at least one bible.\n'
 p3258
 aS'link your youtube channel in as many places as you can websites blogs magazines use youtube apis to create youtube badges for your website that displa'
 p3259
@@ -7412,7 +7412,7 @@ a(lp3272
 I0
 aI1
 aaa(lp3273
-S'58% of school kids say pizza is their favorite cafeteria food.\n'
+S'25% of adults say online romances "don\'t count as cheating."\n'
 p3274
 aS'some people might think they hate the commute but are merely unfamiliar with the alternative  no matter how you cut it a long drive is absolute hell b'
 p3275
@@ -7448,7 +7448,7 @@ a(lp3288
 I0
 aI1
 aaa(lp3289
-S'32% of singles polled think they will meet their future mate online.\n'
+S'32% of US teens cite Instagram as their favourite social network\n'
 p3290
 aS'taxdeadline season isnt many peoples favorite time of the year but most americans are ok with the amount of tax they pay its what other people pay or '
 p3291
@@ -7484,7 +7484,7 @@ a(lp3304
 I0
 aI1
 aaa(lp3305
-S'In 1948, 2.3% of American households had televisions. Today 99% do.\n'
+S'1% of U.S. businesses allow their employees to take naps during working hours.\n'
 p3306
 aS'i even went so far as to paint my slothful behavior as a symptom of a busy life quipping people who make their bed have too much time on their hands b'
 p3307
@@ -7520,7 +7520,7 @@ a(lp3320
 I0
 aI1
 aaa(lp3321
-S'In 1998, 58% of American adults were married and living with their spouses, an all time low.\n'
+S'9% of U.S small businesses use Youtube\n'
 p3322
 aS'when people get married they have less contact with their friends their siblings their neighborhood depaulo says adding that studies show this is true'
 p3323
@@ -7556,7 +7556,7 @@ a(lp3336
 I0
 aI1
 aaa(lp3337
-S'46% of violence on T.V. occurs in cartoons.\n'
+S'77% of Twitter users feel more positive about a brand when their Tweet has been replied to\n'
 p3338
 aS'10 things most americans dont know about america search for audio version marks commentary print pdf  actually a good litmus test to tell if someone i'
 p3339
@@ -7592,7 +7592,7 @@ a(lp3352
 I0
 aI1
 aaa(lp3353
-S'Only about 5% of people dream in color.\n'
+S'53% of Americans think they are paid the right amount.\n'
 p3354
 aS'is 6 foot 4 too tall as an ideal height for a man update cancel answer wiki 19 answers warren kramer artistdesignerguitaristreadercreature  what is th'
 p3355
@@ -7628,7 +7628,7 @@ a(lp3368
 I0
 aI1
 aaa(lp3369
-S'80% of high school athletes, male and female, say they have been hazed.\n'
+S'5% of Americans say they "never" make their beds.\n'
 p3370
 aS'do you ever wonder how many americans are using the same first name as you youre in the right place if you are asking the question how popular is my n'
 p3371
@@ -7664,7 +7664,7 @@ a(lp3384
 I0
 aI1
 aaa(lp3385
-S'65% of American adolescents get acne.\n'
+S'5% of Americans never get married.\n'
 p3386
 aS'how much do youtubers make when each of their videos get 50k 100k 500k 1m and 15m views update cancel promoted by shopify sell on facebook  interestin'
 p3387
@@ -7700,7 +7700,7 @@ a(lp3400
 I0
 aI1
 aaa(lp3401
-S'1 in 6 employees say they got so mad at a coworker last year that "they felt like hitting them but didn\'t."\n'
+S"72% of Americans don't know the people who live next door.\n"
 p3402
 aS'surprising findings in three new nea reports on the arts exploration into who participates and why as well as the arts as an economic engine  as well '
 p3403
@@ -7736,7 +7736,7 @@ a(lp3416
 I0
 aI1
 aaa(lp3417
-S'The average American drinks 3.4 cups of coffee a day.\n'
+S'25% of American men are now six feet or taller, compared to only 4% on 1900.\n'
 p3418
 aS'acne usually begins in puberty and affects many adolescents and young adults but it can occur at any stage of life approximately 85 percent of people '
 p3419
@@ -7772,7 +7772,7 @@ a(lp3432
 I0
 aI1
 aaa(lp3433
-S'85% of parents use child safety seats incorrectly.\n'
+S'60% of American babies are names after relatives.\n'
 p3434
 aS'the demographics of social media users by maeve duggan  44 of online women use the site compared with 16 of online men those under the age of 50 are a'
 p3435
@@ -7808,7 +7808,7 @@ a(lp3448
 I0
 aI1
 aaa(lp3449
-S'The average American kid catches 6 colds a year, the average kid in daycare catches 10.\n'
+S'63% of American adults will rent at least 1 video this month.\n'
 p3450
 aS'how many people use facebook worldwide search the site go women in business basics workplace issues successful women business ideas  us economy mutual'
 p3451
@@ -7844,7 +7844,7 @@ a(lp3464
 I0
 aI1
 aaa(lp3465
-S'The average American male laughs 69 times a day where the average woman laughs 55 times a day.\n'
+S'50% of American adults attended an arts activity in 1997.\n'
 p3466
 aS'a majority of gun victims know their assailant by yvonne ashley kouadjo august 27 2015  but parker and ward are just two of the many victims of gun vi'
 p3467
@@ -7880,7 +7880,7 @@ a(lp3480
 I0
 aI1
 aaa(lp3481
-S'85% of obscene calls are made by males.\n'
+S'65% of American adolescents get acne.\n'
 p3482
 aS'why dont people like humans with atheist or agnosticism belief update cancel answer wiki 10 answers marcus geduld atheist who likes religion answered '
 p3483
@@ -7916,7 +7916,7 @@ a(lp3496
 I0
 aI1
 aaa(lp3497
-S'5% of Americans never get married.\n'
+S'$26 billion has been paid out in ransom in the United States in the last 20 years.\n'
 p3498
 aS'two people in a romantic partnership who dont have any other important relationships in their lives baffle me endlessly  but anyone who would say some'
 p3499
@@ -7952,7 +7952,7 @@ a(lp3512
 I0
 aI1
 aaa(lp3513
-S"60% of the county of Leichtenstein's GDP is generated from the sale of false teeth.\n"
+S'Half of internet users who do not use Facebook themselves live with someone who does\n'
 p3514
 aS'3half of all adult facebook users have more than 200 friends in their network  6half of internet users who do not use facebook themselves live with so'
 p3515
@@ -7988,7 +7988,7 @@ a(lp3528
 I0
 aI1
 aaa(lp3529
-S'50% of American adults attended an arts activity in 1997.\n'
+S'Facebook adds 500,000 new users every day; 6 new profiles every second\n'
 p3530
 aS'two spectacles is a social media marketing agency thats focused on driving results for small businesses in the chicagoland area  well social media is '
 p3531
@@ -8024,7 +8024,7 @@ a(lp3544
 I0
 aI1
 aaa(lp3545
-S'People aged 24-35 worry less than adults of other age groups.\n'
+S'Evidence suggests three in four adult mental health conditions emerge by age 24 and half by age 14\n'
 p3546
 aS'evidence suggests three in four adult mental health conditions emerge by age 24 and half by age 14 breakdown half of all lifetime cases of mental heal'
 p3547
@@ -8060,7 +8060,7 @@ a(lp3560
 I0
 aI1
 aaa(lp3561
-S'5% of Americans say they "never" make their beds.\n'
+S'Economic growth is low and labor-force participation has plunged\n'
 p3562
 aS'sluggish wage growth and depressed labor force participation gregory daco sluggish wage growth in the postrecession era can  ployment rate has plunged'
 p3563
@@ -8096,7 +8096,7 @@ a(lp3576
 I0
 aI1
 aaa(lp3577
-S'The average person moves their residence 11 times in their life, about once every 6 years.\n'
+S'Consumer prices for food rose 0.9% in January, after increasing 0.6% in December.\n'
 p3578
 aS'the consumer price index rose 21 on a yearoveryear basis in january following a 15 increase in december on a seasonally adjusted monthly basis the con'
 p3579
@@ -8132,7 +8132,7 @@ a(lp3592
 I0
 aI1
 aaa(lp3593
-S'35% of people watching T.V. yell at it.\n'
+S'Around one in three young Australian adults aged 18-24 years report experiencing racial discrimination because of their skin colour, ethnic origin or religion.\n'
 p3594
 aS'around one in three young australian adults aged 1824 years report experiencing racial discrimination because of their skin colour ethnic origin or re'
 p3595
@@ -8167,7 +8167,7 @@ a(lp3607
 I0
 aI1
 aaa(lp3608
-S"One in seven Americans can't locate the U.S. on a map.\n"
+S'Around one in four Aboriginal and Torres Strait Islander young people aged 15\xe2\x80\x9324 years report experiencing discrimination because they were of Aboriginal and/or Torres Strait Islander origin.\n'
 p3609
 aS'national professional standards for teachers standards 14 and 24 improving teaching in aboriginal and torres strait islander education melbourne aitsl'
 p3610
@@ -8203,7 +8203,7 @@ a(lp3623
 I0
 aI1
 aaa(lp3624
-S'23% of workers said they would work harder if their employer offered a "$1,000 shopping spree at a store of their choice."\n'
+S'Around one in 35 young Australians aged 4-17 experience a depressive disorder. \n'
 p3625
 aS'around one in 35 young australians aged 417 experience a depressive disorder breakdown 28 of australians aged 417 have experienced an affective disord'
 p3626
@@ -8239,7 +8239,7 @@ a(lp3639
 I0
 aI1
 aaa(lp3640
-S'Only 30% of U.S. adults actually have dandruff while 50% are "self conscious about it."\n'
+S'Approximately one in four young people aged 13-19 years with Type 1 Diabetes experience moderate to severe symptoms of depression and anxiety.\n'
 p3641
 aS' the 3 step trick that reverses diabetes permanently in as little as 11 days diabetes type 1 young adult  the real cause of diabetes and the solution '
 p3642
@@ -8275,7 +8275,7 @@ a(lp3655
 I0
 aI1
 aaa(lp3656
-S'32% of women and 8% of men say they are better at doing laundry than their spouse.\n'
+S'Approximately 1.25 million American children and adults have type 1 diabetes.\n'
 p3657
 aS'approximately 125 million american children and adults have type 1 diabetes according to the american diabetes association'
 p3658
@@ -8310,7 +8310,7 @@ a(lp3670
 I0
 aI1
 aaa(lp3671
-S'13% of the letters in a given book are "e".\n'
+S'An estimated 110,345 people in the US are living with, or in remission from, myeloma.\n'
 p3672
 aS'patients disease information facts  statistics facts and statistics facts and statistics facts and statistics share print  previously had a diagnosis '
 p3673
@@ -8346,7 +8346,7 @@ a(lp3686
 I0
 aI1
 aaa(lp3687
-S'The average age kids begin to use a microwave is seven.\n'
+S'Americans eat less than the recommended amounts of vegetables, fruits, whole-grains, dairy products, and oils.\n'
 p3688
 aS'americans eat less than the recommended amounts of vegetables fruits wholegrains dairy products and oils 2 about 90 of americans eat more sodium than '
 p3689
@@ -8382,7 +8382,7 @@ a(lp3702
 I0
 aI1
 aaa(lp3703
-S'The average American uses 730 crayons by the age of 10.\n'
+S'According to suicide statistics, Monday is the favored day for self-destruction.\n'
 p3704
 aS'according to suicide statistics monday is the favored day for selfdestruction'
 p3705
@@ -8418,7 +8418,7 @@ a(lp3718
 I0
 aI1
 aaa(lp3719
-S'63% of American adults will rent at least 1 video this month.\n'
+S'About 8,000 Americans are injured by musical instruments each year.\n'
 p3720
 aS' about 8000 americans are injured by musical instruments each year and supposedly mayonnaise is not an instrument smh 0 replies 1 retweet 14 likes rep'
 p3721
@@ -8454,7 +8454,7 @@ a(lp3734
 I0
 aI1
 aaa(lp3735
-S'The average sleeper rolls over 12 times in bed per night.\n'
+S'89.3% of all internet searches are carried out by Google\n'
 p3736
 aS'search the worlds information including webpages images videos and more google has many special features to help you find exactly what youre looking f'
 p3737
@@ -8490,7 +8490,7 @@ a(lp3750
 I0
 aI1
 aaa(lp3751
-S'The Pentagon uses an average of 666 rolls of toilet paper each day.\n'
+S'85.2% of people with type 2 diabetes are overweight or obese\n'
 p3752
 aS'how being overweight or obese makes you more prone to type 2 diabetes and other serious health conditions how being overweight or obese makes you more'
 p3753
@@ -8526,7 +8526,7 @@ a(lp3766
 I0
 aI1
 aaa(lp3767
-S'More babies are conceived in December than any other month.\n'
+S'65.8% of US companies with 100+ employees use Twitter for marketing\n'
 p3768
 aS'facebook twitter remain top social networks used by us companies instagram is also seeing rapid growth'
 p3769
@@ -8562,7 +8562,7 @@ a(lp3782
 I0
 aI1
 aaa(lp3783
-S'Your left hand does an average of 56% of your typing.\n'
+S'28.0% of Americans, or 80.2 million people, aged six and older are physically inactive.\n'
 p3784
 aS'facts  statistics physical activity  280 of americans or 802 million people aged six and older are physically inactive 23 nearly onethird of high scho'
 p3785
@@ -8598,7 +8598,7 @@ a(lp3798
 I0
 aI1
 aaa(lp3799
-S'It takes an average person seven minutes to fall asleep on an average night.'
+S'12.5 million (16.9%) children and adolescents are obese.\n'
 p3800
 aS'facts  statistics physical activity  data from 20092010 indicates that over 78 million us adults and about 125 million 169 children and adolescents ar'
 p3801
