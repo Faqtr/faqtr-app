@@ -5,8 +5,8 @@ from tflearn.layers.conv import conv_2d, max_pool_2d
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.estimator import regression
 from tflearn.data_utils import pad_sequences
-import ml.neuralnet.preProcessFiles as ppf
-import ml.nlp.numtext_interconversion as ni
+import ai.neuralnet.preProcessFiles as ppf
+import ai.nlp.numtext_interconversion as ni
 import random
 
 
@@ -33,8 +33,8 @@ def create_network(maxlen=15):
     return model
 
 
-positive = pickle.load(open('ml/neuralnet/trainingpositive.p', 'r'))
-negative = pickle.load(open('ml/neuralnet/trainingnegative.p', 'r'))
+positive = pickle.load(open('ai/neuralnet/trainingpositive.p', 'r'))
+negative = pickle.load(open('ai/neuralnet/trainingnegative.p', 'r'))
 
 
 globalArray = [positive, negative]

@@ -2,11 +2,10 @@ from multiprocessing import Pool
 
 import speech_recognition
 
-from ml.nlp.cosine_distance import get_cosine_distance
-from ml.neuralnet import modelStatistics
-from ml.nlp.custom_parser import process_text
-import ml.neuralnet.wrapper_phase_2_CNN as ptc
-from ml.nlp import convert_to_question
+from ai.neuralnet import modelStatistics
+from ai.nlp.custom_parser import process_text
+from ai.nlp import convert_to_question
+
 from search import bing_api
 from transcribe import transcribe_audio
 
@@ -62,7 +61,6 @@ def process(recognizer, audio):
             for hit in phrase_hits:
                 hit = process_text(hit)
                 statement_array.append(hit)
-
 
     return statement_array
 

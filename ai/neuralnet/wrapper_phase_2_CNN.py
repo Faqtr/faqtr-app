@@ -27,7 +27,7 @@ def create_network(maxlen=15):
 	convnet = regression(convnet, optimizer='adam', n_classes=2, learning_rate=0.01, loss='categorical_crossentropy', name='targets')
 
 	model = tflearn.DNN(convnet)
-	wordlist = pickle.load(open('ml/neuralnet/word_list_for_phase_2_CNN.p', 'r'))
+	wordlist = pickle.load(open('ai/neuralnet/word_list_for_phase_2_CNN.p', 'r'))
 	return model, wordlist
 
 def predict(model, wordlist, text1, text2, maxlen=15):

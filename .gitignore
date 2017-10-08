@@ -164,11 +164,11 @@ ENV/
 # mypy
 .mypy_cache/
 
-/ml/Untitled1.ipynb
-/ml/train.pkl
-/ml/testRnn.py
-/ml/training.pkl
-/ml/Untitled.ipynb
+/ai/Untitled1.ipynb
+/ai/train.pkl
+/ai/testRnn.py
+/ai/training.pkl
+/ai/Untitled.ipynb
 
 ### macOS template
 # General

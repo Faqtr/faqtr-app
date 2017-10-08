@@ -1,6 +1,6 @@
 import requests
 import re
-from ml.nlp import numtext_interconversion
+from ai.nlp import numtext_interconversion
 
 BASE_URL = "https://api.cognitive.microsoft.com/bing/v7.0/search"
 headers = {'Ocp-Apim-Subscription-Key': 'cd18b9463d45418fa44af0837b59cb51'}

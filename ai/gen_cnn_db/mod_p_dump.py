@@ -1,5 +1,5 @@
 import pickle
-from ml.nlp import convert_to_question
+from ai.nlp import convert_to_question
 
 dump = pickle.load(open('trainingpositive.p', 'r'))
 statistical_data = open('../Statistical.txt', 'r').readlines()

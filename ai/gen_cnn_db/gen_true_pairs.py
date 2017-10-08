@@ -1,6 +1,6 @@
 from search import bing_api
-from ml.nlp import cosine_distance
-from ml.nlp import convert_to_question
+from ai.nlp import cosine_distance
+from ai.nlp import convert_to_question
 from tqdm import tqdm
 import re
 
