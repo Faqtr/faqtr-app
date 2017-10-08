@@ -1,5 +1,26 @@
 import num2words
 
+mult_dict = {'million': 1000000, 'thousand': 1000, 'hundred': 100, 'billion': 1000000000}
+
+
+def mixed_to_int(full_line):
+    tokens = full_line.split(" ")
+    final_string_to_return = ""
+    i = 0
+    while i < len(tokens):
+        try:
+            if (float(tokens[i])):
+                val = float(tokens[i])
+                if(i + 1 < len(tokens) and tokens[i + 1]  in ["thousand", "million", "hundred"]):
+                    multiplier = mult_dict[tokens[i + 1]]
+                    val *= multiplier
+                    i += 1
+                final_string_to_return += str(val) + " "
+                #return val
+        except Exception, e:
+            final_string_to_return += tokens[i] + " "
+        i += 1
+    return final_string_to_return
 
 def text2int(textnum, numwords={}):
     if not numwords:
@@ -31,7 +52,6 @@ def text2int(textnum, numwords={}):
 
     return result + current
 
-
 def int2text(num):
     return num2words.num2words(num)
 
@@ -44,3 +64,27 @@ def is_str_int_rep(currstr):
     if currstr in vals:
         return True
     return False
+
+def wrapper_normalizer(source_string):
+    source_string = mixed_to_int(source_string)
+    final_string_toreturn = ""
+    i = 0
+    source_string = source_string.split(" ")
+    while i < len(source_string):
+        #print source_string[i]
+        if(is_str_int_rep(source_string[i])):
+            #print "inside"
+            num_builder = ""
+            while i < len(source_string) and (is_str_int_rep(source_string[i]) or ( source_string[i] == "and" and  is_str_int_rep(source_string[i + 1]) == True ) ):
+                num_builder += (source_string[i] + " ")
+                i += 1
+            #print (num_builder)
+            #print (text2int(num_builder))
+            final_string_toreturn += str(text2int(num_builder)) + " "
+        else:
+            final_string_toreturn += source_string[i] + " "
+            i += 1
+
+    return final_string_toreturn
+
+#print(wrapper_normalizer("two hundred fifty thousand people out of five hundred fifty and people are idiots"))
