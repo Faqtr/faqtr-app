@@ -5,6 +5,7 @@ import speech_recognition
 from ml.nlp.cosine_distance import get_cosine_distance
 from ml.neuralnet import modelStatistics
 from ml.nlp.custom_parser import process_text
+import ml.neuralnet.wrapper_phase_2_CNN as ptc
 from ml.nlp import convert_to_question
 from search import bing_api
 from transcribe import transcribe_audio
@@ -24,10 +25,15 @@ def process(recognizer, audio):
 
         if modelStatistics.predict(model, word_list, transcribed_text_chunk):
             # getting relevant content from BING API
+            model, word_list_phase_2 = ptc.create_network()
+            model.load('ml/neuralnet/phase2CNN.model')
             phrase_hits = bing_api.search(transcribed_text_chunk)
 
             # replace words like '9 out of 10' with actual numerical values
             transcribed_text_chunk = process_text(transcribed_text_chunk)
+            scores = []
+            for hit in phrase_hits:
+                scores.append(cnn.predict(model, word_list_phase_2, transcribed_text_chunk, hit))
 
             """
             NOT CALCULATING COSINE DISTANCES
