@@ -8,6 +8,7 @@ from ai.nlp.custom_parser import process_text
 from ai.neuralnet import wrapper_phase_2_CNN as ptc
 from ai.nlp import ballpark
 from ai.nlp.numtext_interconversion import wrapper_normalizer as wn
+import re
 # from ai.nlp import convert_to_question
 
 from search import bing_api
@@ -17,7 +18,7 @@ from transcribe import transcribe_audio
 def process(recognizer, audio, modelCNN, wordlistCNN):
     # Get text chunk from audio
     transcribed_text_chunk = transcribe_audio.run(recognizer, audio)
-    valid, invalid, figure_bP, scores = 0, 0, 0, 0
+    valid, invalid, figure_bP, scores = 0, 0, 0, []
 
     # Convert the statement into question form and also get the main number metric for future use
     # transcribed_text_chunk, cardinal_number = convert_to_question.convert_statement(transcribed_text_chunk)
@@ -30,12 +31,15 @@ def process(recognizer, audio, modelCNN, wordlistCNN):
         if modelStatistics.predict(model, word_list, transcribed_text_chunk):
             # getting relevant content from BING API
             # modelCNN.load('ai/neuralnet/phase2CNN.model')
-            phrase_hits = bing_api.search(transcribed_text_chunk)
+            transcribed_text_chunk = process_text(wn(transcribed_text_chunk), False)
+            numbers = [str(s) for s in re.findall(r'\b\d+\b', transcribed_text_chunk)]
+            search_term = ''.join(i for i in transcribed_text_chunk if i not in numbers and i != '.')
+            phrase_hits = bing_api.search('how much many ' + search_term)
 
             # replace words like '9 out of 10' with actual numerical values
-            transcribed_text_chunk = process_text(wn(transcribed_text_chunk))
-            scores = []
+            
             for hit in phrase_hits:
+                transcribed_text_chunk = process_text(transcribed_text_chunk)
                 hit = process_text(wn(hit))
                 figure_bP += ballpark.get_most_relevant_data(transcribed_text_chunk, hit)
                 scores.append(ptc.predict(modelCNN, word_list_phase_2, transcribed_text_chunk, hit))
