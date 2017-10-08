@@ -12,6 +12,7 @@ table = string.maketrans("","")
 punctuation = '!"#$%&\'()*+,/:;<=>?@[\\]^_`{|}~'
 
 def processLine(line):
+    line = str(line)
     line = line.replace('-', ' ')
     line = line.translate(table, punctuation)
     line = str.lower(line)

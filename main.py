@@ -42,6 +42,16 @@ def process(recognizer, audio):
             # statement_array = sorted(statement_array, key=lambda tup: tup[1], reverse=True)
 
             # AB KYA KARNA HAI
+            # CNN ADD KARO
+            # Cardinal Difference Module Add karo
+            # Combine Results for each, precedence ke hisaab se; something like:
+            # score = 0
+            # priority = len(phrase_hits) #top priority for first one
+            # for hit in phrase_hits:
+            #   res1 = CNN(hit, query)
+            #   res2 = CardinalDifference(hit, query)
+            #   score = priority * someFunc(res1, res2)
+            #   priority -= 1
 
             for hit in phrase_hits:
                 hit = process_text(hit)
