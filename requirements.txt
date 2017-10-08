@@ -11,3 +11,4 @@ tensorflow>=1.2.1
 numpy>=1.13.1
 gensim==3.0.0
 num2words==0.5.5
+tflearn==0.3.2
