@@ -11,18 +11,22 @@ def get_acceptable_margin(n1, n2):
     return False
 
 
-def get_most_relevant_data(claim, data_snips):
+def get_most_relevant_data(claim, snip):
     # Get the first number from the claim
-    claim_nos = [int(s) for s in re.findall(r'\b\d+\b', claim)][0]
-
-    acceptable_statements = []
-
-    for snip in data_snips:
-        snip_nos = [int(s) for s in re.findall(r'\b\d+\b', snip)]
-
+    claim_nos = [float(s) for s in re.findall(r'\b\d+\b', claim)]
+    #acceptable_statements = []
+    #for snip in data_snips:
+    snip_nos = [float(s) for s in re.findall(r'\b\d+\b', snip)]
+    snip_nos = sorted(snip_nos, reverse=True)
+    claim_nos = sorted(claim_nos, reverse=True)
         # Add them to a list with the difference of nos as the key
-        for nos in snip_nos:
-            if get_acceptable_margin(nos, claim_nos):
-                acceptable_statements.append(snip)
+    a = 0
+    i = 0
+    for nos in claim_nos:
+        if i < len(snip_nos) and get_acceptable_margin(nos, snip_nos[i]):
+            #acceptable_statements.append(snip)
+            a += 1
+        i += 1
+    return float( a / len(claim_nos))
 
-    return acceptable_statements
+    #return acceptable_statements

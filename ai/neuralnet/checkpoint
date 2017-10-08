@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/aditya/Desktop/faqtr-app/ml/neuralnet/phase2CNN.model"
-all_model_checkpoint_paths: "/Users/aditya/Desktop/faqtr-app/ml/neuralnet/phase2CNN.model"
+model_checkpoint_path: "/Users/aditya/Desktop/faqtr-app/ai/neuralnet/phase2CNN.model"
+all_model_checkpoint_paths: "/Users/aditya/Desktop/faqtr-app/ai/neuralnet/phase2CNN.model"

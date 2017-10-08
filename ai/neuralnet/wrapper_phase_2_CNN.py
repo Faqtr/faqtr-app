@@ -28,6 +28,7 @@ def create_network(maxlen=15):
 
 	model = tflearn.DNN(convnet)
 	wordlist = pickle.load(open('ai/neuralnet/word_list_for_phase_2_CNN.p', 'r'))
+	model.load('ai/neuralnet/phase2CNN.model')
 	return model, wordlist
 
 def predict(model, wordlist, text1, text2, maxlen=15):
