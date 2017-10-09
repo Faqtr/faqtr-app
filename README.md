@@ -1,8 +1,8 @@
-## Faqtr
+# Faqtr
 
 Faqtr aim to perform statistical claim validation with the aid of Voice Transcribing, Deep Learning and Natural Language Processing.
 
-### Installating and Running
+### Installing
 
 * Create a virtualenv and activate it
     `pip install virtualenv`
