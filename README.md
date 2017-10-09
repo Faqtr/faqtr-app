@@ -5,8 +5,11 @@ Faqtr aim to perform statistical claim validation with the aid of Voice Transcri
 ### Installing
 
 * Create a virtualenv and activate it
+
     `pip install virtualenv`
+
     `virtualenv env`
+
     `source env/bin/activate`
 
 * Install the additional libraries required to support packages being used
