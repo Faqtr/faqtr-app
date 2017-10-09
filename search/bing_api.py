@@ -2,8 +2,11 @@ import requests
 import re
 from ai.nlp import numtext_interconversion
 
+from appconfig import BING_API_KEY
+
 BASE_URL = "https://api.cognitive.microsoft.com/bing/v7.0/search"
-headers = {'Ocp-Apim-Subscription-Key': 'cd18b9463d45418fa44af0837b59cb51'}
+headers = {'Ocp-Apim-Subscription-Key': BING_API_KEY}
+
 
 def search(text):
     response = requests.get(BASE_URL, params={'q': text}, headers=headers).json()

@@ -198,3 +198,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+training.pkl
+wordlist.pkl
+/appconfig.py
